@@ -1,0 +1,332 @@
+07:42:39 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+07:43:05 - Lỗi gửi request Exp_Address_110: The port is closed.
+07:43:05 - Lỗi gửi request Exp_Address_101: The port is closed.
+07:43:10 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:43:10 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:43:23 - Lỗi gửi request Ia_Address_101: The port is closed.
+07:43:23 - Lỗi gửi request Ia_Address_110: The port is closed.
+07:43:46 - Lỗi gửi request Ib_Address_110: The port is closed.
+07:43:46 - Lỗi gửi request Ib_Address_101: The port is closed.
+07:43:57 - Lỗi gửi request Ic_Address_110: The port is closed.
+07:43:57 - Lỗi gửi request Ic_Address_101: The port is closed.
+07:52:56 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+07:52:56 - Lỗi gửi request Exp_Address_101: The port is closed.
+07:52:56 - Lỗi gửi request Exp_Address_110: The port is closed.
+07:53:00 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:53:00 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:53:06 - Lỗi gửi request Ia_Address_101: The port is closed.
+07:53:06 - Lỗi gửi request Ia_Address_110: The port is closed.
+07:53:16 - Lỗi gửi request Ib_Address_101: The port is closed.
+07:53:16 - Lỗi gửi request Ib_Address_110: The port is closed.
+07:53:26 - Lỗi gửi request Ic_Address_101: The port is closed.
+07:53:26 - Lỗi gửi request Ic_Address_110: The port is closed.
+07:53:36 - Lỗi gửi request Imp_Address_101: The port is closed.
+07:53:36 - Lỗi gửi request Imp_Address_110: The port is closed.
+07:53:46 - Lỗi gửi request Pa_Address_101: The port is closed.
+07:53:46 - Lỗi gửi request Pa_Address_110: The port is closed.
+07:53:56 - Lỗi gửi request Pb_Address_101: The port is closed.
+07:53:56 - Lỗi gửi request Pb_Address_110: The port is closed.
+07:54:06 - Lỗi gửi request Pc_Address_101: The port is closed.
+07:54:06 - Lỗi gửi request Pc_Address_110: The port is closed.
+07:54:16 - Lỗi gửi request Pt_Address_101: The port is closed.
+07:54:16 - Lỗi gửi request Pt_Address_110: The port is closed.
+07:54:26 - Lỗi gửi request Ua_Address_101: The port is closed.
+07:54:26 - Lỗi gửi request Ua_Address_110: The port is closed.
+07:54:36 - Lỗi gửi request Ub_Address_101: The port is closed.
+07:54:36 - Lỗi gửi request Ub_Address_110: The port is closed.
+07:56:13 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+07:56:13 - Lỗi gửi request Exp_Address_101: The port is closed.
+07:56:13 - Lỗi gửi request Exp_Address_110: The port is closed.
+07:56:14 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:56:14 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:57:01 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+07:57:02 - Lỗi gửi request Exp_Address_110: The port is closed.
+07:57:02 - Lỗi gửi request Exp_Address_101: The port is closed.
+07:57:02 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:57:02 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+07:57:12 - Lỗi gửi request Ia_Address_110: The port is closed.
+07:57:12 - Lỗi gửi request Ia_Address_101: The port is closed.
+07:57:22 - Lỗi gửi request Ib_Address_110: The port is closed.
+07:57:22 - Lỗi gửi request Ib_Address_101: The port is closed.
+07:57:32 - Lỗi gửi request Ic_Address_110: The port is closed.
+07:57:32 - Lỗi gửi request Ic_Address_101: The port is closed.
+07:57:42 - Lỗi gửi request Imp_Address_110: The port is closed.
+07:57:42 - Lỗi gửi request Imp_Address_101: The port is closed.
+07:57:52 - Lỗi gửi request Pa_Address_110: The port is closed.
+07:57:52 - Lỗi gửi request Pa_Address_101: The port is closed.
+07:58:02 - Lỗi gửi request Pb_Address_110: The port is closed.
+07:58:02 - Lỗi gửi request Pb_Address_101: The port is closed.
+07:58:12 - Lỗi gửi request Pc_Address_110: The port is closed.
+07:58:12 - Lỗi gửi request Pc_Address_101: The port is closed.
+07:58:22 - Lỗi gửi request Pt_Address_110: The port is closed.
+07:58:22 - Lỗi gửi request Pt_Address_101: The port is closed.
+07:58:32 - Lỗi gửi request Ua_Address_110: The port is closed.
+07:58:32 - Lỗi gửi request Ua_Address_101: The port is closed.
+07:58:42 - Lỗi gửi request Ub_Address_110: The port is closed.
+07:58:42 - Lỗi gửi request Ub_Address_101: The port is closed.
+07:58:52 - Lỗi gửi request Uc_Address_110: The port is closed.
+07:58:52 - Lỗi gửi request Uc_Address_101: The port is closed.
+07:59:02 - Máy 110: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+07:59:02 - Máy 101: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+08:04:02 - Lỗi gửi request Exp_Address_110: The port is closed.
+08:04:02 - Lỗi gửi request Exp_Address_101: The port is closed.
+08:04:12 - Lỗi gửi request Ia_Address_110: The port is closed.
+08:04:12 - Lỗi gửi request Ia_Address_101: The port is closed.
+08:04:22 - Lỗi gửi request Ib_Address_110: The port is closed.
+08:04:22 - Lỗi gửi request Ib_Address_101: The port is closed.
+08:04:32 - Lỗi gửi request Ic_Address_110: The port is closed.
+08:04:32 - Lỗi gửi request Ic_Address_101: The port is closed.
+08:04:42 - Lỗi gửi request Imp_Address_110: The port is closed.
+08:04:42 - Lỗi gửi request Imp_Address_101: The port is closed.
+08:04:52 - Lỗi gửi request Pa_Address_110: The port is closed.
+08:04:52 - Lỗi gửi request Pa_Address_101: The port is closed.
+08:05:02 - Lỗi gửi request Pb_Address_110: The port is closed.
+08:05:02 - Lỗi gửi request Pb_Address_101: The port is closed.
+08:05:12 - Lỗi gửi request Pc_Address_110: The port is closed.
+08:05:12 - Lỗi gửi request Pc_Address_101: The port is closed.
+08:05:22 - Lỗi gửi request Pt_Address_110: The port is closed.
+08:05:22 - Lỗi gửi request Pt_Address_101: The port is closed.
+08:05:32 - Lỗi gửi request Ua_Address_110: The port is closed.
+08:05:32 - Lỗi gửi request Ua_Address_101: The port is closed.
+08:05:42 - Lỗi gửi request Ub_Address_110: The port is closed.
+08:05:42 - Lỗi gửi request Ub_Address_101: The port is closed.
+08:05:52 - Lỗi gửi request Uc_Address_110: The port is closed.
+08:05:52 - Lỗi gửi request Uc_Address_101: The port is closed.
+08:06:02 - Máy 110: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+08:06:02 - Máy 101: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+08:11:02 - Lỗi gửi request Exp_Address_110: The port is closed.
+08:11:02 - Lỗi gửi request Exp_Address_101: The port is closed.
+08:11:12 - Lỗi gửi request Ia_Address_110: The port is closed.
+08:11:12 - Lỗi gửi request Ia_Address_101: The port is closed.
+08:11:22 - Lỗi gửi request Ib_Address_110: The port is closed.
+08:11:22 - Lỗi gửi request Ib_Address_101: The port is closed.
+08:11:32 - Lỗi gửi request Ic_Address_110: The port is closed.
+08:11:32 - Lỗi gửi request Ic_Address_101: The port is closed.
+08:11:42 - Lỗi gửi request Imp_Address_110: The port is closed.
+08:11:42 - Lỗi gửi request Imp_Address_101: The port is closed.
+08:11:53 - Lỗi gửi request Pa_Address_110: The port is closed.
+08:11:53 - Lỗi gửi request Pa_Address_101: The port is closed.
+08:12:03 - Lỗi gửi request Pb_Address_110: The port is closed.
+08:12:03 - Lỗi gửi request Pb_Address_101: The port is closed.
+08:12:13 - Lỗi gửi request Pc_Address_110: The port is closed.
+08:12:13 - Lỗi gửi request Pc_Address_101: The port is closed.
+08:12:23 - Lỗi gửi request Pt_Address_110: The port is closed.
+08:12:23 - Lỗi gửi request Pt_Address_101: The port is closed.
+08:12:33 - Lỗi gửi request Ua_Address_110: The port is closed.
+08:12:33 - Lỗi gửi request Ua_Address_101: The port is closed.
+08:12:43 - Lỗi gửi request Ub_Address_110: The port is closed.
+08:12:43 - Lỗi gửi request Ub_Address_101: The port is closed.
+08:12:53 - Lỗi gửi request Uc_Address_110: The port is closed.
+08:12:53 - Lỗi gửi request Uc_Address_101: The port is closed.
+08:13:03 - Máy 110: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+08:13:03 - Máy 101: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+08:18:03 - Lỗi gửi request Exp_Address_110: The port is closed.
+08:18:03 - Lỗi gửi request Exp_Address_101: The port is closed.
+08:18:13 - Lỗi gửi request Ia_Address_110: The port is closed.
+08:18:13 - Lỗi gửi request Ia_Address_101: The port is closed.
+08:18:23 - Lỗi gửi request Ib_Address_110: The port is closed.
+08:18:23 - Lỗi gửi request Ib_Address_101: The port is closed.
+08:18:33 - Lỗi gửi request Ic_Address_110: The port is closed.
+08:18:33 - Lỗi gửi request Ic_Address_101: The port is closed.
+08:18:43 - Lỗi gửi request Imp_Address_110: The port is closed.
+08:18:43 - Lỗi gửi request Imp_Address_101: The port is closed.
+08:18:53 - Lỗi gửi request Pa_Address_110: The port is closed.
+08:18:53 - Lỗi gửi request Pa_Address_101: The port is closed.
+08:19:03 - Lỗi gửi request Pb_Address_110: The port is closed.
+08:19:03 - Lỗi gửi request Pb_Address_101: The port is closed.
+08:19:13 - Lỗi gửi request Pc_Address_110: The port is closed.
+08:19:13 - Lỗi gửi request Pc_Address_101: The port is closed.
+08:19:23 - Lỗi gửi request Pt_Address_110: The port is closed.
+08:19:23 - Lỗi gửi request Pt_Address_101: The port is closed.
+08:19:33 - Lỗi gửi request Ua_Address_110: The port is closed.
+08:19:33 - Lỗi gửi request Ua_Address_101: The port is closed.
+08:19:43 - Lỗi gửi request Ub_Address_110: The port is closed.
+08:19:43 - Lỗi gửi request Ub_Address_101: The port is closed.
+08:19:53 - Lỗi gửi request Uc_Address_110: The port is closed.
+08:19:53 - Lỗi gửi request Uc_Address_101: The port is closed.
+08:20:03 - Máy 110: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+08:20:03 - Máy 101: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+08:25:03 - Lỗi gửi request Exp_Address_110: The port is closed.
+08:25:03 - Lỗi gửi request Exp_Address_101: The port is closed.
+08:25:13 - Lỗi gửi request Ia_Address_110: The port is closed.
+08:25:13 - Lỗi gửi request Ia_Address_101: The port is closed.
+08:25:23 - Lỗi gửi request Ib_Address_110: The port is closed.
+08:25:23 - Lỗi gửi request Ib_Address_101: The port is closed.
+08:25:33 - Lỗi gửi request Ic_Address_110: The port is closed.
+08:25:33 - Lỗi gửi request Ic_Address_101: The port is closed.
+08:25:43 - Lỗi gửi request Imp_Address_110: The port is closed.
+08:25:43 - Lỗi gửi request Imp_Address_101: The port is closed.
+08:25:53 - Lỗi gửi request Pa_Address_110: The port is closed.
+08:25:53 - Lỗi gửi request Pa_Address_101: The port is closed.
+08:26:03 - Lỗi gửi request Pb_Address_110: The port is closed.
+08:26:03 - Lỗi gửi request Pb_Address_101: The port is closed.
+08:32:55 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+08:32:55 - Lỗi gửi request Exp_Address_101: The port is closed.
+08:32:55 - Lỗi gửi request Exp_Address_110: The port is closed.
+08:32:56 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+08:32:56 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+08:33:05 - Lỗi gửi request Ia_Address_101: The port is closed.
+08:33:05 - Lỗi gửi request Ia_Address_110: The port is closed.
+08:33:15 - Lỗi gửi request Ib_Address_101: The port is closed.
+08:33:15 - Lỗi gửi request Ib_Address_110: The port is closed.
+08:33:25 - Lỗi gửi request Ic_Address_101: The port is closed.
+08:33:25 - Lỗi gửi request Ic_Address_110: The port is closed.
+08:33:35 - Lỗi gửi request Imp_Address_101: The port is closed.
+08:33:35 - Lỗi gửi request Imp_Address_110: The port is closed.
+08:33:45 - Lỗi gửi request Pa_Address_101: The port is closed.
+08:33:45 - Lỗi gửi request Pa_Address_110: The port is closed.
+08:48:23 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+08:48:23 - Lỗi gửi request Exp_Address_110: The port is closed.
+08:48:23 - Lỗi gửi request Exp_Address_101: The port is closed.
+08:48:24 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+08:48:24 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+08:50:35 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+08:50:35 - Lỗi gửi request Exp_Address_101: The port is closed.
+08:50:35 - Lỗi gửi request Exp_Address_110: The port is closed.
+08:50:36 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+08:50:36 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+08:50:45 - Lỗi gửi request Ia_Address_101: The port is closed.
+08:50:45 - Lỗi gửi request Ia_Address_110: The port is closed.
+08:50:55 - Lỗi gửi request Ib_Address_101: The port is closed.
+08:50:55 - Lỗi gửi request Ib_Address_110: The port is closed.
+08:51:05 - Lỗi gửi request Ic_Address_101: The port is closed.
+08:51:05 - Lỗi gửi request Ic_Address_110: The port is closed.
+08:51:15 - Lỗi gửi request Imp_Address_101: The port is closed.
+08:51:15 - Lỗi gửi request Imp_Address_110: The port is closed.
+08:51:25 - Lỗi gửi request Pa_Address_101: The port is closed.
+08:51:25 - Lỗi gửi request Pa_Address_110: The port is closed.
+14:37:36 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+14:37:36 - Lỗi gửi request Exp_Address_101: The port is closed.
+14:37:36 - Lỗi gửi request Exp_Address_110: The port is closed.
+14:37:37 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+14:37:37 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+14:37:46 - Lỗi gửi request Ia_Address_101: The port is closed.
+14:37:46 - Lỗi gửi request Ia_Address_110: The port is closed.
+14:37:56 - Lỗi gửi request Ib_Address_101: The port is closed.
+14:37:56 - Lỗi gửi request Ib_Address_110: The port is closed.
+14:38:06 - Lỗi gửi request Ic_Address_101: The port is closed.
+14:38:06 - Lỗi gửi request Ic_Address_110: The port is closed.
+14:38:16 - Lỗi gửi request Imp_Address_101: The port is closed.
+14:38:16 - Lỗi gửi request Imp_Address_110: The port is closed.
+14:38:26 - Lỗi gửi request Pa_Address_101: The port is closed.
+14:38:26 - Lỗi gửi request Pa_Address_110: The port is closed.
+14:57:34 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+14:57:34 - Lỗi gửi request Exp_Address_101: The port is closed.
+14:57:34 - Lỗi gửi request Exp_Address_110: The port is closed.
+14:57:35 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+14:57:35 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+14:57:44 - Lỗi gửi request Ia_Address_101: The port is closed.
+14:57:44 - Lỗi gửi request Ia_Address_110: The port is closed.
+15:35:09 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+15:35:09 - Lỗi gửi request Exp_Address_101: The port is closed.
+15:35:09 - Lỗi gửi request Exp_Address_110: The port is closed.
+15:35:10 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+15:35:10 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+15:35:19 - Lỗi gửi request Ia_Address_101: The port is closed.
+15:35:19 - Lỗi gửi request Ia_Address_110: The port is closed.
+15:35:29 - Lỗi gửi request Ib_Address_101: The port is closed.
+15:35:29 - Lỗi gửi request Ib_Address_110: The port is closed.
+15:48:16 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+15:48:16 - Lỗi gửi request Exp_Address_110: The port is closed.
+15:48:16 - Lỗi gửi request Exp_Address_101: The port is closed.
+15:48:17 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+15:48:17 - Lỗi khi tải dữ liệu cho devid 5: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+15:48:26 - Lỗi gửi request Ia_Address_110: The port is closed.
+15:48:26 - Lỗi gửi request Ia_Address_101: The port is closed.
+15:48:36 - Lỗi gửi request Ib_Address_110: The port is closed.
+15:48:36 - Lỗi gửi request Ib_Address_101: The port is closed.
+15:48:46 - Lỗi gửi request Ic_Address_110: The port is closed.
+15:48:46 - Lỗi gửi request Ic_Address_101: The port is closed.
+15:48:56 - Lỗi gửi request Imp_Address_110: The port is closed.
+15:48:56 - Lỗi gửi request Imp_Address_101: The port is closed.
+15:49:06 - Lỗi gửi request Pa_Address_110: The port is closed.
+15:49:06 - Lỗi gửi request Pa_Address_101: The port is closed.
+15:49:16 - Lỗi gửi request Pb_Address_110: The port is closed.
+15:49:16 - Lỗi gửi request Pb_Address_101: The port is closed.
+15:49:26 - Lỗi gửi request Pc_Address_110: The port is closed.
+15:49:26 - Lỗi gửi request Pc_Address_101: The port is closed.
+15:49:36 - Lỗi gửi request Pt_Address_110: The port is closed.
+15:49:36 - Lỗi gửi request Pt_Address_101: The port is closed.
+15:49:46 - Lỗi gửi request Ua_Address_110: The port is closed.
+15:49:46 - Lỗi gửi request Ua_Address_101: The port is closed.
+15:50:31 - Lỗi gửi request Ub_Address_101: The port is closed.
+15:50:31 - Lỗi gửi request Ub_Address_110: The port is closed.
+15:50:41 - Lỗi gửi request Uc_Address_101: The port is closed.
+15:50:41 - Lỗi gửi request Uc_Address_110: The port is closed.
+15:50:51 - Máy 101: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+15:50:51 - Máy 110: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+16:24:00 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM7'.
+File name: 'COM7'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 99
+16:24:00 - Lỗi gửi request Exp_Address_5: The port is closed.
+16:24:00 - Lỗi gửi request Exp_Address_6: The port is closed.
+16:24:10 - Lỗi gửi request Ia_Address_5: The port is closed.
+16:24:10 - Lỗi gửi request Ia_Address_6: The port is closed.
+16:24:20 - Lỗi gửi request Ib_Address_5: The port is closed.
+16:24:20 - Lỗi gửi request Ib_Address_6: The port is closed.
+16:24:30 - Lỗi gửi request Ic_Address_5: The port is closed.
+16:24:30 - Lỗi gửi request Ic_Address_6: The port is closed.
+16:24:40 - Lỗi gửi request Imp_Address_5: The port is closed.
+16:24:40 - Lỗi gửi request Imp_Address_6: The port is closed.
+16:24:50 - Lỗi gửi request Pa_Address_5: The port is closed.
+16:24:50 - Lỗi gửi request Pa_Address_6: The port is closed.
+16:25:00 - Lỗi gửi request Pb_Address_5: The port is closed.
+16:25:00 - Lỗi gửi request Pb_Address_6: The port is closed.
+16:25:10 - Lỗi gửi request Pc_Address_5: The port is closed.
+16:25:10 - Lỗi gửi request Pc_Address_6: The port is closed.
+16:25:20 - Lỗi gửi request Pt_Address_5: The port is closed.
+16:25:20 - Lỗi gửi request Pt_Address_6: The port is closed.
+16:25:30 - Lỗi gửi request Ua_Address_5: The port is closed.
+16:25:30 - Lỗi gửi request Ua_Address_6: The port is closed.
+16:25:40 - Lỗi gửi request Ub_Address_5: The port is closed.
+16:25:40 - Lỗi gửi request Ub_Address_6: The port is closed.
+16:25:50 - Lỗi gửi request Uc_Address_5: The port is closed.
+16:25:50 - Lỗi gửi request Uc_Address_6: The port is closed.
+16:26:00 - Máy 5: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...
+16:26:00 - Máy 6: Hoàn tất vòng gửi dữ liệu. Chờ 5 phút...

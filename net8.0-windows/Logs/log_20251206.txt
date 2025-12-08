@@ -1,0 +1,97 @@
+07:42:32 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+07:46:21 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+07:48:51 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+07:49:55 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+07:52:56 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+07:54:54 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+09:01:07 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+09:02:10 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+09:06:03 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+09:08:32 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+09:10:56 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+09:11:59 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:11:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:11:59 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:11:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:11:59 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:11:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:11:59 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:11:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:11:59 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+10:19:05 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+14:15:47 - 端口打开失败:System.IO.FileNotFoundException: Could not find file 'COM4'.
+File name: 'COM4'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 78
+16:21:57 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:21:57 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:21:57 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:21:57 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:21:57 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:21:57 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:21:57 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:21:57 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:21:57 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+16:22:01 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:22:01 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:22:05 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:22:05 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:22:09 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:22:09 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:22:13 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:22:13 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:22:17 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+16:22:17 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.

@@ -1,0 +1,341 @@
+07:42:10 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:10 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:42:10 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:10 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:42:11 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:11 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:42:11 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:11 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:42:11 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+07:42:15 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:15 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:42:19 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:19 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:42:23 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:23 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:42:27 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:42:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:24 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:24 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:24 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:24 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:24 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+07:43:28 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:28 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:32 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:32 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:33 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:36 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:36 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:40 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:40 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:43:44 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:43:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:59:55 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:59:55 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:59:55 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:59:55 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:59:55 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:59:55 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:59:55 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:59:55 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:59:55 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+07:59:59 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+07:59:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:00:04 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:00:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:34 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:34 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:34 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:34 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:34 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:34 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:34 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:34 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:34 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+08:34:38 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:38 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:42 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:42 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:46 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:46 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:34:51 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:34:51 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:35:46 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:35:46 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:35:46 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:35:46 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:35:46 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:35:46 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:35:46 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:35:46 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:35:46 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+08:35:50 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:35:50 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:35:54 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:35:54 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:35:58 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:35:58 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:36:02 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:36:02 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:36:06 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:36:06 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:25 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:25 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:25 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:25 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:25 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:25 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:25 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:25 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:25 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+08:40:29 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:29 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:33 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:37 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:37 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:41 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:40:45 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:40:45 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:43:18 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:43:18 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:43:18 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:43:18 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:43:18 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:43:18 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:43:18 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:43:18 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:43:18 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+08:43:22 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:43:22 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:43:26 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:43:26 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:43:30 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:43:30 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:04 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:04 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:04 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:04 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:04 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+08:44:08 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:08 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:12 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:16 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:20 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:20 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:44:24 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:44:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:39 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:39 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:39 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:39 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:39 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:39 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:39 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:39 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:39 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+08:53:43 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:43 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:47 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:51 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:51 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:53:56 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:53:56 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:54:00 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:54:00 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:54:04 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:54:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+08:54:05 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+08:54:05 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:08 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:08 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:08 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:08 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:08 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:08 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:08 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:08 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:08 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:13:12 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:16 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:20 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:20 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:24 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:13:28 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:13:28 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:23:44 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:23:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:23:44 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:23:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:23:44 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:23:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:23:44 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:23:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:23:44 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:29:28 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:28 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:28 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:28 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:28 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:28 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:28 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:28 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:28 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:29:32 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:32 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:37 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:37 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:41 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:45 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:45 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:29:49 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:29:49 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:16 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:16 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:16 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:16 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:16 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:31:20 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:20 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:24 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:28 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:28 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:33 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:31:37 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:31:37 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:36:54 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:36:54 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:36:54 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:36:54 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:36:54 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:36:54 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:36:55 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:36:55 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:36:55 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:36:59 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:36:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:03 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:03 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:07 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:07 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:11 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:11 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:35 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:35 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:35 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:35 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:37:35 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:37:39 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:37:39 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:38 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:38 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:38 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:38 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:38 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:38:43 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:43 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:47 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:51 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:51 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:55 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:55 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:38:59 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:38:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:12 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:12 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:12 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:12 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:12 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+09:54:16 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:20 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:20 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:24 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:24 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:29 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:29 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+09:54:33 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+09:54:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:19:10 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:23:36 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:34:46 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:36:56 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:40:21 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:42:46 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:44:26 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:48:54 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:49:50 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+10:50:13 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:02:34 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:08:36 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:11:36 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:17:18 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:22:18 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:25:21 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:25:21 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:25:21 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:25:21 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:25:21 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:25:21 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:25:21 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:25:21 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:25:21 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:28:51 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:32:10 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:33:15 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:35:30 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:44:27 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:47:35 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:47:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:47:35 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:47:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:47:35 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:47:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:47:35 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:47:35 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:47:35 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:47:39 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:47:39 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:47:44 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+11:47:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+11:50:18 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+11:52:20 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
