@@ -339,3 +339,16 @@
 11:47:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
 11:50:18 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
 11:52:20 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+14:57:59 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+14:57:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+14:57:59 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+14:57:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+14:57:59 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+14:57:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+14:57:59 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+14:57:59 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+14:57:59 - Lỗi khi khởi động kết nối: Value cannot be null. (Parameter 'PortName')
+14:58:03 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+14:58:03 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+14:58:07 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7099)
+14:58:07 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
