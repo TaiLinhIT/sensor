@@ -32,3 +32,20 @@ File name: 'COM3'
    at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
    at System.IO.Ports.SerialPort.Open()
    at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 73
+13:00:38 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:90)
+13:00:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:00:38 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:90)
+13:00:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:00:38 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:90)
+13:00:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:00:38 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:90)
+13:00:38 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:00:38 - Port COM3 open failed: System.IO.FileNotFoundException: Could not find file 'COM3'.
+File name: 'COM3'
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at Electric_Meter.Services.MySerialPortService.Conn() in D:\Linh\Project\Electric_Tool\Electric_Meter\Services\MySerialPortService.cs:line 73
+13:00:42 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:90)
+13:00:42 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:00:42 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:90)
+13:00:42 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
