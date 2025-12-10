@@ -1,0 +1,363 @@
+[
+    {
+        "Name": "Line A",
+        "ActiveId": 1,
+        "TypeId": 8,
+        "IfShow": 1,
+        "Port": "COM4",
+        "Baudrate": 2400,
+        "Address": 1,
+        "Assembling": "A"
+    },
+    {
+        "Name": "Line B",
+        "ActiveId": 1,
+        "TypeId": 8,
+        "IfShow": 1,
+        "Port": "COM4",
+        "Baudrate": 2400,
+        "Address": 2,
+        "Assembling": "B"
+    },
+    {
+        "Name": "Line C",
+        "ActiveId": 1,
+        "TypeId": 8,
+        "IfShow": 1,
+        "Port": "COM4",
+        "Baudrate": 2400,
+        "Address": 3,
+        "Assembling": "C"
+    },
+    {
+        "Name": "Line D",
+        "ActiveId": 1,
+        "TypeId": 8,
+        "IfShow": 1,
+        "Port": "COM4",
+        "Baudrate": 2400,
+        "Address": 4,
+        "Assembling": "D"
+    },
+    {
+        "Name": "Line A01",
+        "ActiveId": 1,
+        "TypeId": 7,
+        "IfShow": 1,
+        "Port": "COM7",
+        "Baudrate": 9600,
+        "Address": 1,
+        "Assembling": "A"
+    },
+    {
+        "Name": "Line A02",
+        "ActiveId": 1,
+        "TypeId": 7,
+        "IfShow": 1,
+        "Port": "COM7",
+        "Baudrate": 9600,
+        "Address": 110,
+        "Assembling": "A"
+    }
+    //,
+    //{
+    //    "Name": "Line A03",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 7,
+    //    "Assembling": "A"
+    //},
+    //{
+    //    "Name": "Line A04",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 8,
+    //    "Assembling": "A"
+    //},
+    //{
+    //    "Name": "Line A05",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 9,
+    //    "Assembling": "A"
+    //},
+    //{
+    //    "Name": "Line A06",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 10,
+    //    "Assembling": "A"
+    //},
+    //{
+    //    "Name": "Line A07",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 11,
+    //    "Assembling": "A"
+    //},
+    //{
+    //    "Name": "Line A08",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 12,
+    //    "Assembling": "A"
+    //},
+    //{
+    //    "Name": "Line B01",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 13,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line B02",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 14,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line B03",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 15,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line B04",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 16,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line B05",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 17,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line B06",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 18,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line B07",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 19,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line B08",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 20,
+    //    "Assembling": "B"
+    //},
+    //{
+    //    "Name": "Line C01",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 21,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line C02",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 22,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line C03",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 23,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line C04",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 24,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line C05",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 25,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line C06",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 26,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line C07",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 27,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line C08",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 28,
+    //    "Assembling": "C"
+    //},
+    //{
+    //    "Name": "Line D01",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 29,
+    //    "Assembling": "D"
+    //},
+    //{
+    //    "Name": "Line D02",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 30,
+    //    "Assembling": "D"
+    //},
+    //{
+    //    "Name": "Line D03",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 31,
+    //    "Assembling": "D"
+    //},
+    //{
+    //    "Name": "Line D04",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 32,
+    //    "Assembling": "D"
+    //},
+    //{
+    //    "Name": "Line D05",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 33,
+    //    "Assembling": "D"
+    //},
+    //{
+    //    "Name": "Line D06",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 34,
+    //    "Assembling": "D"
+    //},
+    //{
+    //    "Name": "Line D07",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 35,
+    //    "Assembling": "D"
+    //},
+    //{
+    //    "Name": "Line D08",
+    //    "ActiveId": 1,
+    //    "TypeId": 7,
+    //    "IfShow": 1,
+    //    "Port": "COM3",
+    //    "Baudrate": 2400,
+    //    "Address": 36,
+    //    "Assembling": "D"
+    //}
+]

@@ -1,0 +1,21 @@
+{
+    "AppSettings": {
+        //"ConnectString": "Server=FLP-YTJ-07;Database=PowerTempWatch;TrustServerCertificate=True;MultipleActiveResultSets=True;",
+        //"ConnectString": "Data Source=ADMIN-PC\\ANTHONYNGUYEN;Initial Catalog=PowerTempWatch;Integrated Security=True;Trust Server Certificate=True;MultipleActiveResultSets=True;",
+        //"ConnectString": "Server=10.30.80.1;Database=PowerTempWatch_test;User ID=sa;Password=greenland@VN;TrustServerCertificate=True;MultipleActiveResultSets=True;",
+        //"ConnectString": "Data Source=FLP-YTJ-07;Initial Catalog=PowerTempWatch;Integrated Security=True;Trust Server Certificate=True",
+
+        "TimeSendRequest": 0,
+        "TimeOutReceive": 1,
+        //"ApiBaseUrl": "http://localhost/webapi/",
+        "ApiBaseUrl": "http://localhost:90/",
+        //"Port": "COM4",
+        "Port": "COM3",
+        //"Baudrate": 2400,
+        "Baudrate": 1200
+
+    }
+
+
+    
+}
