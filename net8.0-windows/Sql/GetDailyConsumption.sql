@@ -31,7 +31,7 @@ BEGIN
              MIN(CASE WHEN B.Name = 'Exp' THEN A.Value END)) AS MucTangExp
              
         FROM
-            SensorData AS A
+            Sensor_ClientData AS A
         INNER JOIN
             ControlCode AS B ON A.CodeID = B.CodeID
         WHERE

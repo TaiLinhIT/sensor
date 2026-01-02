@@ -1,0 +1,113 @@
+07:39:30 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+07:39:30 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:13:30 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:13:30 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:17:32 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:17:32 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:26:06 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:26:06 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:28:18 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:28:18 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:57:03 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:57:03 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+08:58:36 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:02:35 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:02:35 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:03:17 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:14:09 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:14:09 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:14:42 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:14:42 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:16:19 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:16:19 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:16:36 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:16:36 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:29:48 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:29:49 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:30:16 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+09:30:16 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:19:44 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:19:44 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:20:37 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:51:24 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:51:24 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:53:44 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:53:44 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:52 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:52 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:52 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:52 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:52 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:53 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:53 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:53 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:54:53 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:55:39 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+11:55:39 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:03:03 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:03:03 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:05:33 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:05:33 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:34:38 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:34:39 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:36:17 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:36:17 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:39:09 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:39:09 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:40:12 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:40:12 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:40:41 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:40:41 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:41:01 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:41:01 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:42:37 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:44:55 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:44:55 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:46:42 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:46:42 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:47:11 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:47:11 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:53:12 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:53:12 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+13:57:41 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:57:41 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:57:41 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:57:41 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:57:44 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:44 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:57:45 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:45 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:57:48 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:48 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:57:49 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:57:49 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+14:01:41 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:01:41 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:07:15 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:07:15 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:12:29 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:12:29 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:13:02 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:13:02 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:13:29 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:13:29 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:29:41 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:29:42 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:30:09 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:41:14 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:41:14 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:44:46 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:44:46 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:54:05 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+14:54:05 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+15:32:24 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+15:32:24 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+15:37:05 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+15:37:05 - ❌ [HTTP Failed] Endpoint: api/Sensor_ClientType/. Lỗi: Response status code does not indicate success: 404 (Not Found).
+16:13:57 - ❌ [HTTP Failed] Endpoint: api/SensorData/. Lỗi: An error occurred while sending the request.
+16:13:57 -    → Chi tiết: Loại: HttpIOException, Message: The response ended prematurely. (ResponseEnded)
+16:14:00 - Save DB Error: No service for type 'Sensor_Client.Models.PowerTempWatchContext' has been registered.

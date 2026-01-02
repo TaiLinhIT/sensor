@@ -14,7 +14,7 @@ BEGIN
                 PARTITION BY sd.devid, sd.codeid
                 ORDER BY sd.day DESC
             ) AS rn
-        FROM SensorData sd
+        FROM Sensor_ClientData sd
         WHERE YEAR(sd.day) = @year
     )
     SELECT 

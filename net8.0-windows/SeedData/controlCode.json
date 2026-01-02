@@ -934,7 +934,7 @@
         "IfCal": 1
     },
 
-    /* Temp sensors DevId = 5 */
+    /* Temp Sensor_Clients DevId = 5 */
     {
         "DevId": 5,
         "Code": "0300120002",
