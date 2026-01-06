@@ -470,3 +470,5 @@
 10:01:00 - [Sender] Port is CLOSED. Cannot send.
 11:28:39 - [Init] Loaded 104 control codes.
 11:28:39 - Port open failed: Could not find file 'COM5'.
+13:31:01 - [Init] Loaded 104 control codes.
+13:31:01 - Port open failed: Could not find file 'COM5'.
