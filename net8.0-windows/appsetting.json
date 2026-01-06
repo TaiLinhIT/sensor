@@ -3,9 +3,9 @@
         //"ApiBaseUrl": "http://localhost/webapi/",
         "ApiBaseUrl": "https://localhost:7777/",
         //"ApiBaseUrl": "http://localhost:90/",// api xưởng 2
-        "Port": "COM4",//temperature
+        "Port": "COM5",//temperature
         //"Port": "COM3",//electronic
-        "Baudrate": 2400//temperature
+        "Baudrate": 9600//temperature
         //"Baudrate": 1200//electronic
     }
 }

@@ -13,17 +13,22 @@
     //Command manager view
     "Code type": "ប្រភេទលេខកូដ",
     //
+    //Command setting view
+    "Slave ID": "លេខសម្គាល់អ្នកបំរើ",
+    "Function code": "លេខកូដមុខងារ",
+    "CRC Check": "ការត្រួតពិនិត្យ CRC",
+    //
     "Add": "បន្ថែម",
     "Edit": "កែសម្រួល",
     "Delete": "លុប",
     "System": "ប្រព័ន្ធ",
     "System of parameters": "ប្រព័ន្ធប៉ារ៉ាម៉ែត្រ",
-    "Sensor_Client type setting": "ការកំណត់ប្រភេទសេនស័រ",
+    "Sensor type setting": "ការកំណត់ប្រភេទសេនស័រ",
     "Type command setting": "ការកំណត់ប្រភេទបញ្ជា",
     "Device setting": "ការកំណត់ឧបករណ៍",
     "Hardware setting": "ការកំណត់ផ្នែករឹង",
     "Reset password": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ",
-    "Sensor_Client type": "ប្រភេទឧបករណ៍ស៊ែនស័រ",
+    "Sensor type": "ប្រភេទឧបករណ៍ស៊ែនស័រ",
     "Device id": "លេខសម្គាល់ឧបករណ៍",
     "Name device": "ឈ្មោះឧបករណ៍",
     "Name code type": "ឈ្មោះប្រភេទកូដ",

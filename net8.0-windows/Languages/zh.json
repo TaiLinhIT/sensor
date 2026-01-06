@@ -13,17 +13,22 @@
     //Command manager view
     "Code type": "代码类型",
     //
+    //Command setting view
+    "Slave ID": "从站ID",
+    "Function code": "功能代码",
+    "CRC Check": "CRC检查",
+    //
     "Add": "添加",
     "Edit": "编辑",
     "Delete": "删除",
     "System": "系统",
     "System of parameters": "参数系统",
-    "Sensor_Client type setting": "传感器类型设置",
+    "Sensor type setting": "传感器类型设置",
     "Type command setting": "类型命令设置",
     "Device setting": "设备设置",
     "Hardware setting": "硬件设置",
     "Reset password": "重置密码",
-    "Sensor_Client type": "传感器类型",
+    "Sensor type": "传感器类型",
     "Device id": "设备编号",
     "Name device": "设备名称",
     "Name code type": "代码类型名称",

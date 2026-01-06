@@ -13,17 +13,22 @@
     //Command manager view
     "Code type": "Loại mã",
     //
+    //Command setting view
+    "Slave ID": "Slave ID",
+    "Function code": "Mã chức năng",
+    "CRC Check": "Kiểm tra CRC",
+    //
     "Add": "Thêm",
     "Edit": "Chỉnh sửa",
     "Delete": "Xóa",
     "System": "Hệ thống",
     "System of parameters": "Hệ thống các thông số",
-    "Sensor_Client type setting": "Cài đặt loại cảm biến",
+    "Sensor type setting": "Cài đặt loại cảm biến",
     "Type command setting": "Cài đặt loại lệnh",
     "Device setting": "Cài đặt thiết bị",
     "Hardware setting": "Cài đặt phần cứng",
     "Reset password": "Đặt lại mật khẩu",
-    "Sensor_Client type": "Loại cảm biến",
+    "Sensor type": "Loại cảm biến",
     "Device id": "Mã định danh thiết bị",
     "Name device": "Tên thiết bị",
     "Name code type": "Tên loại mã",

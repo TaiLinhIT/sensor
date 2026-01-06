@@ -1,0 +1,272 @@
+13:50:58 - [Service] Starting communication thread...
+13:51:02 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:02 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:51:02 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:02 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:51:02 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:02 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:51:02 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:02 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:51:02 - [Init] Loaded 0 control codes for 0 devices.
+13:51:02 - [Serial] Port COM4 opened successfully at 2400 bps.
+13:51:06 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:06 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:51:06 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:06 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:51:10 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:10 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:51:14 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+13:51:14 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:53:15 - [Service] Starting communication thread...
+13:53:17 - [Init] Loaded 32 control codes for 4 devices.
+13:53:17 - [Serial] Port COM4 opened successfully at 2400 bps.
+14:10:15 - [Service] Starting communication thread...
+14:10:18 - [Init] Loaded 32 control codes for 4 devices.
+14:10:18 - [Serial] Port COM4 opened successfully at 2400 bps.
+14:17:03 - [Service] Starting communication thread...
+14:17:05 - [Init] Loaded 32 control codes for 4 devices.
+14:17:05 - [Serial] Port COM4 opened successfully at 2400 bps.
+14:24:40 - [Service] Starting communication thread...
+14:24:42 - [Init] Loaded 32 control codes for 4 devices.
+14:24:42 - [Serial] Port COM4 opened successfully at 2400 bps.
+15:54:29 - [Service] Starting communication thread...
+15:54:31 - [Init] Loaded 32 control codes for 4 devices.
+15:54:31 - [Serial] Port COM4 opened successfully at 2400 bps.
+15:58:45 - [Service] Starting communication thread...
+15:58:48 - [Init] Loaded 32 control codes for 4 devices.
+15:58:48 - [Serial] Port COM4 opened successfully at 2400 bps.
+15:58:48 - Error: The input string 'R' was not in a correct format.
+15:58:48 - Error: The input string 'R' was not in a correct format.
+15:58:48 - Error: The input string 'R' was not in a correct format.
+15:58:49 - Error: The input string 'R' was not in a correct format.
+15:58:49 - Error: The input string 'R' was not in a correct format.
+15:58:49 - Error: The input string 'R' was not in a correct format.
+15:58:49 - Error: The input string 'R' was not in a correct format.
+15:58:50 - Error: The input string 'R' was not in a correct format.
+15:58:56 - Error: The input string 'R' was not in a correct format.
+15:58:56 - Error: The input string 'R' was not in a correct format.
+15:58:56 - Error: The input string 'R' was not in a correct format.
+15:58:57 - Error: The input string 'R' was not in a correct format.
+15:58:57 - Error: The input string 'R' was not in a correct format.
+15:58:57 - Error: The input string 'R' was not in a correct format.
+15:58:57 - Error: The input string 'R' was not in a correct format.
+15:58:58 - Error: The input string 'R' was not in a correct format.
+15:59:04 - Error: The input string 'R' was not in a correct format.
+15:59:04 - Error: The input string 'R' was not in a correct format.
+15:59:04 - Error: The input string 'R' was not in a correct format.
+15:59:05 - Error: The input string 'R' was not in a correct format.
+15:59:05 - Error: The input string 'R' was not in a correct format.
+15:59:05 - Error: The input string 'R' was not in a correct format.
+15:59:05 - Error: The input string 'R' was not in a correct format.
+15:59:06 - Error: The input string 'R' was not in a correct format.
+15:59:12 - Error: The input string 'R' was not in a correct format.
+15:59:12 - Error: The input string 'R' was not in a correct format.
+15:59:12 - Error: The input string 'R' was not in a correct format.
+15:59:13 - Error: The input string 'R' was not in a correct format.
+15:59:13 - Error: The input string 'R' was not in a correct format.
+15:59:13 - Error: The input string 'R' was not in a correct format.
+15:59:13 - Error: The input string 'R' was not in a correct format.
+15:59:14 - Error: The input string 'R' was not in a correct format.
+15:59:20 - Error: The input string 'R' was not in a correct format.
+15:59:20 - Error: The input string 'R' was not in a correct format.
+15:59:20 - Error: The input string 'R' was not in a correct format.
+15:59:21 - Error: The input string 'R' was not in a correct format.
+15:59:21 - Error: The input string 'R' was not in a correct format.
+15:59:21 - Error: The input string 'R' was not in a correct format.
+15:59:22 - Error: The input string 'R' was not in a correct format.
+15:59:22 - Error: The input string 'R' was not in a correct format.
+16:00:52 - [Service] Starting communication thread...
+16:00:54 - [Init] Loaded 32 control codes for 4 devices.
+16:00:54 - [Serial] Port COM4 opened successfully at 2400 bps.
+16:00:55 - Error: The input string 'R' was not in a correct format.
+16:00:55 - Error: The input string 'R' was not in a correct format.
+16:00:55 - Error: The input string 'R' was not in a correct format.
+16:00:55 - Error: The input string 'R' was not in a correct format.
+16:00:56 - Error: The input string 'R' was not in a correct format.
+16:00:56 - Error: The input string 'R' was not in a correct format.
+16:00:56 - Error: The input string 'R' was not in a correct format.
+16:00:56 - Error: The input string 'R' was not in a correct format.
+16:01:03 - Error: The input string 'R' was not in a correct format.
+16:01:03 - Error: The input string 'R' was not in a correct format.
+16:01:03 - Error: The input string 'R' was not in a correct format.
+16:01:03 - Error: The input string 'R' was not in a correct format.
+16:01:04 - Error: The input string 'R' was not in a correct format.
+16:01:04 - Error: The input string 'R' was not in a correct format.
+16:01:04 - Error: The input string 'R' was not in a correct format.
+16:01:04 - Error: The input string 'R' was not in a correct format.
+16:01:11 - Error: The input string 'R' was not in a correct format.
+16:01:11 - Error: The input string 'R' was not in a correct format.
+16:01:11 - Error: The input string 'R' was not in a correct format.
+16:01:11 - Error: The input string 'R' was not in a correct format.
+16:01:12 - Error: The input string 'R' was not in a correct format.
+16:01:12 - Error: The input string 'R' was not in a correct format.
+16:01:12 - Error: The input string 'R' was not in a correct format.
+16:01:13 - Error: The input string 'R' was not in a correct format.
+16:01:19 - Error: The input string 'R' was not in a correct format.
+16:01:19 - Error: The input string 'R' was not in a correct format.
+16:01:19 - Error: The input string 'R' was not in a correct format.
+16:01:20 - Error: The input string 'R' was not in a correct format.
+16:01:20 - Error: The input string 'R' was not in a correct format.
+16:01:20 - Error: The input string 'R' was not in a correct format.
+16:01:20 - Error: The input string 'R' was not in a correct format.
+16:01:21 - Error: The input string 'R' was not in a correct format.
+16:01:27 - Error: The input string 'R' was not in a correct format.
+16:01:27 - Error: The input string 'R' was not in a correct format.
+16:01:27 - Error: The input string 'R' was not in a correct format.
+16:01:28 - Error: The input string 'R' was not in a correct format.
+16:01:28 - Error: The input string 'R' was not in a correct format.
+16:01:28 - Error: The input string 'R' was not in a correct format.
+16:01:28 - Error: The input string 'R' was not in a correct format.
+16:01:29 - Error: The input string 'R' was not in a correct format.
+16:01:35 - Error: The input string 'R' was not in a correct format.
+16:01:35 - Error: The input string 'R' was not in a correct format.
+16:01:35 - Error: The input string 'R' was not in a correct format.
+16:01:36 - Error: The input string 'R' was not in a correct format.
+16:01:36 - Error: The input string 'R' was not in a correct format.
+16:01:36 - Error: The input string 'R' was not in a correct format.
+16:01:36 - Error: The input string 'R' was not in a correct format.
+16:01:37 - Error: The input string 'R' was not in a correct format.
+16:01:43 - Error: The input string 'R' was not in a correct format.
+16:01:43 - Error: The input string 'R' was not in a correct format.
+16:01:43 - Error: The input string 'R' was not in a correct format.
+16:01:44 - Error: The input string 'R' was not in a correct format.
+16:01:44 - Error: The input string 'R' was not in a correct format.
+16:01:44 - Error: The input string 'R' was not in a correct format.
+16:01:44 - Error: The input string 'R' was not in a correct format.
+16:01:45 - Error: The input string 'R' was not in a correct format.
+16:03:56 - [Service] Starting communication thread...
+16:04:01 - [Init] Loaded 0 control codes for 0 devices.
+16:04:01 - [Serial] Port COM4 opened successfully at 2400 bps.
+16:06:58 - [Service] Starting communication thread...
+16:07:01 - [Init] Loaded 32 control codes for 4 devices.
+16:07:01 - [Serial] Port COM4 opened successfully at 2400 bps.
+16:07:01 - Error: The input string 'R' was not in a correct format.
+16:07:01 - Error: The input string 'R' was not in a correct format.
+16:07:01 - Error: The input string 'R' was not in a correct format.
+16:07:02 - Error: The input string 'R' was not in a correct format.
+16:07:02 - Error: The input string 'R' was not in a correct format.
+16:07:02 - Error: The input string 'R' was not in a correct format.
+16:07:02 - Error: The input string 'R' was not in a correct format.
+16:07:03 - Error: The input string 'R' was not in a correct format.
+16:07:09 - Error: The input string 'R' was not in a correct format.
+16:07:09 - Error: The input string 'R' was not in a correct format.
+16:07:09 - Error: The input string 'R' was not in a correct format.
+16:07:10 - Error: The input string 'R' was not in a correct format.
+16:07:10 - Error: The input string 'R' was not in a correct format.
+16:07:10 - Error: The input string 'R' was not in a correct format.
+16:07:10 - Error: The input string 'R' was not in a correct format.
+16:07:11 - Error: The input string 'R' was not in a correct format.
+16:07:17 - Error: The input string 'R' was not in a correct format.
+16:07:17 - Error: The input string 'R' was not in a correct format.
+16:07:17 - Error: The input string 'R' was not in a correct format.
+16:07:18 - Error: The input string 'R' was not in a correct format.
+16:07:18 - Error: The input string 'R' was not in a correct format.
+16:07:18 - Error: The input string 'R' was not in a correct format.
+16:07:18 - Error: The input string 'R' was not in a correct format.
+16:07:19 - Error: The input string 'R' was not in a correct format.
+16:07:25 - Error: The input string 'R' was not in a correct format.
+16:07:25 - Error: The input string 'R' was not in a correct format.
+16:07:25 - Error: The input string 'R' was not in a correct format.
+16:07:26 - Error: The input string 'R' was not in a correct format.
+16:07:26 - Error: The input string 'R' was not in a correct format.
+16:07:26 - Error: The input string 'R' was not in a correct format.
+16:07:26 - Error: The input string 'R' was not in a correct format.
+16:07:27 - Error: The input string 'R' was not in a correct format.
+16:07:33 - Error: The input string 'R' was not in a correct format.
+16:07:33 - Error: The input string 'R' was not in a correct format.
+16:07:33 - Error: The input string 'R' was not in a correct format.
+16:07:34 - Error: The input string 'R' was not in a correct format.
+16:07:34 - Error: The input string 'R' was not in a correct format.
+16:07:34 - Error: The input string 'R' was not in a correct format.
+16:07:34 - Error: The input string 'R' was not in a correct format.
+16:07:35 - Error: The input string 'R' was not in a correct format.
+16:07:41 - Error: The input string 'R' was not in a correct format.
+16:07:41 - Error: The input string 'R' was not in a correct format.
+16:07:41 - Error: The input string 'R' was not in a correct format.
+16:07:42 - Error: The input string 'R' was not in a correct format.
+16:07:42 - Error: The input string 'R' was not in a correct format.
+16:07:42 - Error: The input string 'R' was not in a correct format.
+16:07:42 - Error: The input string 'R' was not in a correct format.
+16:07:43 - Error: The input string 'R' was not in a correct format.
+16:07:49 - Error: The input string 'R' was not in a correct format.
+16:07:49 - Error: The input string 'R' was not in a correct format.
+16:07:49 - Error: The input string 'R' was not in a correct format.
+16:07:50 - Error: The input string 'R' was not in a correct format.
+16:07:50 - Error: The input string 'R' was not in a correct format.
+16:07:50 - Error: The input string 'R' was not in a correct format.
+16:07:50 - Error: The input string 'R' was not in a correct format.
+16:07:51 - Error: The input string 'R' was not in a correct format.
+16:07:57 - Error: The input string 'R' was not in a correct format.
+16:07:57 - Error: The input string 'R' was not in a correct format.
+16:07:57 - Error: The input string 'R' was not in a correct format.
+16:07:58 - Error: The input string 'R' was not in a correct format.
+16:07:58 - Error: The input string 'R' was not in a correct format.
+16:07:58 - Error: The input string 'R' was not in a correct format.
+16:07:58 - Error: The input string 'R' was not in a correct format.
+16:07:59 - Error: The input string 'R' was not in a correct format.
+16:08:05 - Error: The input string 'R' was not in a correct format.
+16:08:05 - Error: The input string 'R' was not in a correct format.
+16:08:05 - Error: The input string 'R' was not in a correct format.
+16:08:06 - Error: The input string 'R' was not in a correct format.
+16:08:06 - Error: The input string 'R' was not in a correct format.
+16:08:06 - Error: The input string 'R' was not in a correct format.
+16:08:06 - Error: The input string 'R' was not in a correct format.
+16:08:07 - Error: The input string 'R' was not in a correct format.
+16:08:13 - Error: The input string 'R' was not in a correct format.
+16:08:13 - Error: The input string 'R' was not in a correct format.
+16:08:13 - Error: The input string 'R' was not in a correct format.
+16:08:14 - Error: The input string 'R' was not in a correct format.
+16:08:14 - Error: The input string 'R' was not in a correct format.
+16:08:14 - Error: The input string 'R' was not in a correct format.
+16:08:15 - Error: The input string 'R' was not in a correct format.
+16:08:15 - Error: The input string 'R' was not in a correct format.
+16:08:21 - Error: The input string 'R' was not in a correct format.
+16:08:21 - Error: The input string 'R' was not in a correct format.
+16:08:21 - Error: The input string 'R' was not in a correct format.
+16:08:22 - Error: The input string 'R' was not in a correct format.
+16:08:22 - Error: The input string 'R' was not in a correct format.
+16:08:22 - Error: The input string 'R' was not in a correct format.
+16:08:23 - Error: The input string 'R' was not in a correct format.
+16:08:23 - Error: The input string 'R' was not in a correct format.
+16:08:29 - Error: The input string 'R' was not in a correct format.
+16:08:29 - Error: The input string 'R' was not in a correct format.
+16:08:30 - Error: The input string 'R' was not in a correct format.
+16:08:30 - Error: The input string 'R' was not in a correct format.
+16:08:30 - Error: The input string 'R' was not in a correct format.
+16:08:30 - Error: The input string 'R' was not in a correct format.
+16:08:31 - Error: The input string 'R' was not in a correct format.
+16:08:31 - Error: The input string 'R' was not in a correct format.
+16:08:37 - Error: The input string 'R' was not in a correct format.
+16:08:37 - Error: The input string 'R' was not in a correct format.
+16:08:38 - Error: The input string 'R' was not in a correct format.
+16:08:38 - Error: The input string 'R' was not in a correct format.
+16:08:38 - Error: The input string 'R' was not in a correct format.
+16:08:38 - Error: The input string 'R' was not in a correct format.
+16:08:39 - Error: The input string 'R' was not in a correct format.
+16:08:39 - Error: The input string 'R' was not in a correct format.
+16:08:45 - Error: The input string 'R' was not in a correct format.
+16:08:45 - Error: The input string 'R' was not in a correct format.
+16:08:46 - Error: The input string 'R' was not in a correct format.
+16:08:46 - Error: The input string 'R' was not in a correct format.
+16:08:46 - Error: The input string 'R' was not in a correct format.
+16:08:46 - Error: The input string 'R' was not in a correct format.
+16:08:47 - Error: The input string 'R' was not in a correct format.
+16:08:47 - Error: The input string 'R' was not in a correct format.
+16:09:02 - Error: The input string 'R' was not in a correct format.
+16:09:04 - Error: The input string 'R' was not in a correct format.
+16:09:30 - Error: The input string 'R' was not in a correct format.
+16:11:17 - [Service] Starting communication thread...
+16:11:19 - [Init] Loaded 32 control codes for 4 devices.
+16:11:19 - [Serial] Port COM4 opened successfully at 2400 bps.
+16:16:30 - [Service] Starting communication thread...
+16:16:33 - [Init] Loaded 32 control codes for 4 devices.
+16:16:33 - [Serial] Port COM4 opened successfully at 2400 bps.
+16:17:12 - [Service] Starting communication thread...
+16:17:14 - [Init] Loaded 32 control codes for 4 devices.
+16:17:14 - [Serial] Port COM4 opened successfully at 2400 bps.
+16:18:23 - [Service] Starting communication thread...
+16:18:24 - [Init] Loaded 32 control codes for 4 devices.
+16:18:25 - [Serial] Port COM4 opened successfully at 2400 bps.
+16:28:19 - [Service] Starting communication thread...
+16:28:21 - [Init] Loaded 32 control codes for 4 devices.
+16:28:21 - [Serial] Port COM4 opened successfully at 2400 bps.
