@@ -1,0 +1,26 @@
+15:55:23 - [Service] Starting communication thread...
+15:55:27 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+15:55:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:55:27 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+15:55:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:55:27 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+15:55:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:55:27 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+15:55:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:55:27 - [Init] Loaded 0 control codes for 0 devices.
+15:55:27 - Port COM5 open failed: Could not find file 'COM5'.
+16:06:08 - [Service] Starting communication thread...
+16:06:12 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+16:06:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:06:12 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+16:06:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:06:12 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+16:06:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:06:12 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+16:06:12 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:06:12 - [Init] Loaded 0 control codes for 0 devices.
+16:06:12 - Port COM5 open failed: Could not find file 'COM5'.
+16:06:16 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+16:06:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+16:06:16 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+16:06:16 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
