@@ -1,3 +1,0 @@
-08:21:41 - [Service] Starting communication thread...
-08:21:44 - [Init] Loaded 104 control codes for 10 devices.
-08:21:44 - Port COM5 open failed: Could not find file 'COM5'.
