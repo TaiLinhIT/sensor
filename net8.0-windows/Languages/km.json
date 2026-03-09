@@ -26,6 +26,7 @@
     "Sensor type setting": "ការកំណត់ប្រភេទសេនស័រ",
     "Type command setting": "ការកំណត់ប្រភេទបញ្ជា",
     "Device setting": "ការកំណត់ឧបករណ៍",
+    "Data compensation": "ការជំនួសទិន្នន័យ",
     "Hardware setting": "ការកំណត់ផ្នែករឹង",
     "Reset password": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ",
     "Sensor type": "ប្រភេទឧបករណ៍ស៊ែនស័រ",
@@ -88,5 +89,12 @@
     "Energy consumption rate in 30 days": "អត្រាការប្រើថាមពលក្នុងរយៈពេល 30 ថ្ងៃ",
     "Energy consumption in 30 days": "ការប្រើថាមពលក្នុងរយៈពេល 30 ថ្ងៃ",
     "Month": "ខែ",
-    "Year": "ឆ្នាំ"
+    "Year": "ឆ្នាំ",
+    //Data compensation
+    "Name station": "ឈ្មោះស្ថានីយ៍",
+    "Id": "Id",
+    "Slave Id": "លេខសម្គាល់ Slave",
+    "Address": "អាសយដ្ឋាន",
+    "Search": "ស្វែងរក",
+    "Confirm": "បញ្ជាក់"
 }

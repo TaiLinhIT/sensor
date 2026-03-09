@@ -26,6 +26,7 @@
     "Sensor type setting": "Cài đặt loại cảm biến",
     "Type command setting": "Cài đặt loại lệnh",
     "Device setting": "Cài đặt thiết bị",
+    "Data compensation": "Bù dữ liệu",
     "Hardware setting": "Cài đặt phần cứng",
     "Reset password": "Đặt lại mật khẩu",
     "Sensor type": "Loại cảm biến",
@@ -88,5 +89,12 @@
     "Energy consumption rate in 30 days": "Tỷ lệ tiêu thụ năng lượng trong 30 ngày",
     "Energy consumption in 30 days": "Tiêu thụ năng lượng trong 30 ngày",
     "Month": "Tháng",
-    "Year": "Năm"
+    "Year": "Năm",
+    //Data compensation
+    "Name station": "Tên trạm",
+    "Id": "Id",
+    "Slave Id": "Mã Slave",
+    "Address": "Địa chỉ",
+    "Search": "Tìm kiếm",
+    "Confirm": "Xác nhận"
 }

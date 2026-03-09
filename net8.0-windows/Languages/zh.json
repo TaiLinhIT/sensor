@@ -26,6 +26,7 @@
     "Sensor type setting": "传感器类型设置",
     "Type command setting": "类型命令设置",
     "Device setting": "设备设置",
+    "Data compensation": "数据补偿",
     "Hardware setting": "硬件设置",
     "Reset password": "重置密码",
     "Sensor type": "传感器类型",
@@ -88,5 +89,12 @@
     "Energy consumption rate in 30 days": "30天内的能耗率",
     "Energy consumption in 30 days": "30天内的能耗",
     "Month": "月",
-    "Year": "年"
+    "Year": "年",
+    //Data compensation
+    "Name station": "站点名称",
+    "Id": "Id",
+    "Slave Id": "从站ID",
+    "Address": "地址",
+    "Search": "搜索",
+    "Confirm": "确认"
 }

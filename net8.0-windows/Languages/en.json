@@ -26,6 +26,7 @@
     "Sensor type setting": "Sensor type setting",
     "Type command setting": "Type command setting",
     "Device setting": "Device setting",
+    "Data compensation": "Data compensation",
     "Hardware setting": "Hardware setting",
     "Reset password": "Reset password",
     "Sensor type": "Sensor type",
@@ -88,7 +89,15 @@
     "Energy consumption rate in 30 days": "Energy consumption rate in 30 days",
     "Energy consumption in 30 days": "Energy consumption in 30 days",
     "Month": "Month",
-    "Year": "Year"
+    "Year": "Year",
+    //Data compensation
+    "Name station": "Name station",
+    "Id": "Id",
+    "Slave Id": "Slave Id",
+    "Address": "Address",
+    "Search": "Search",
+    "Confirm": "Confirm"
+
 
 
 }

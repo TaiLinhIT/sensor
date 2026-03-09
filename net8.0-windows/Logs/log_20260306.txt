@@ -1,0 +1,15 @@
+15:59:12 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+15:59:13 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+15:59:14 - [Timeout] Slave 3 - Lệnh 0303006200026437
+15:59:15 - [Timeout] Slave 3 - Lệnh 0303007600022433
+15:59:17 - [DEBUG] Gửi lệnh ghi: 0506000C0000484D
+15:59:17 - [Timeout] Slave 3 - Lệnh 0303008A0002E403
+15:59:18 - [Timeout] Slave 3 - Lệnh 0303009E0002A407
+15:59:20 - [Timeout] Slave 4 - Lệnh 040300120002645B
+15:59:21 - [Timeout] Slave 4 - Lệnh 0403002600022595
+15:59:22 - [Timeout] Slave 4 - Lệnh 0403003A0002E453
+15:59:24 - [Timeout] Slave 4 - Lệnh 0403004E0002A449
+15:59:25 - [Timeout] Slave 4 - Lệnh 0403006200026580
+15:59:26 - [Timeout] Slave 4 - Lệnh 0403007600022584
+15:59:28 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+15:59:29 - [Timeout] Slave 1 - Lệnh 0103200800024E09
