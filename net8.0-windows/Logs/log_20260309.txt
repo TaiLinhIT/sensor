@@ -4627,3 +4627,431 @@
 15:40:24 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
 15:40:25 - [Timeout] Slave 1 - Lệnh 0103200800024E09
 15:40:26 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+15:45:58 - [Service] Starting communication thread...
+15:46:00 - [Init] Loaded 54 control codes for 6 devices.
+15:46:01 - [Serial] Port COM4 opened successfully at 9600 bps.
+15:46:02 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+15:46:03 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+15:46:04 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+15:46:05 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+15:46:07 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+15:46:08 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+15:46:09 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+15:46:11 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+15:46:12 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+15:46:13 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+15:46:15 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+15:46:16 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+15:46:17 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+15:46:19 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+15:46:20 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+15:46:21 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+15:46:22 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+15:46:24 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+15:46:25 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+15:46:26 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+15:46:28 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+15:46:29 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+15:46:30 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+15:46:32 - [Timeout] Slave 2 - Lệnh 02031028000240F0
+15:46:32 - [Parser] OK: Slave 5 - Addr 18 - Val: 29.97
+15:46:32 - [Warning] Slave 5 (Addr: 38) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:46:33 - [Warning] Slave 5 (Addr: 58) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:46:33 - [Warning] Slave 5 (Addr: 78) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:46:33 - [Warning] Slave 5 (Addr: 98) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:46:34 - [Warning] Slave 5 (Addr: 118) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:46:34 - [Warning] Slave 5 (Addr: 138) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:46:34 - [Warning] Slave 5 (Addr: 158) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:46:36 - [Timeout] Slave 6 - Lệnh 06030012000265B9
+15:46:37 - [Timeout] Slave 6 - Lệnh 0603002600022477
+15:46:38 - [Timeout] Slave 6 - Lệnh 0603003A0002E5B1
+15:46:39 - [Timeout] Slave 6 - Lệnh 0603004E0002A5AB
+15:46:41 - [Timeout] Slave 6 - Lệnh 0603006200026462
+15:46:42 - [Timeout] Slave 6 - Lệnh 0603007600022466
+15:46:43 - [Timeout] Slave 6 - Lệnh 0603008A0002E456
+15:46:45 - [Timeout] Slave 6 - Lệnh 0603009E0002A452
+15:46:46 - [Timeout] Slave 3 - Lệnh 03030012000265EC
+15:46:47 - [Timeout] Slave 3 - Lệnh 0303002600022422
+15:46:49 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+15:46:50 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+15:46:51 - [Timeout] Slave 3 - Lệnh 0303006200026437
+15:46:52 - [Timeout] Slave 3 - Lệnh 0303007600022433
+15:46:54 - [Timeout] Slave 3 - Lệnh 0303008A0002E403
+15:46:55 - [Timeout] Slave 3 - Lệnh 0303009E0002A407
+15:46:56 - [Timeout] Slave 4 - Lệnh 040300120002645B
+15:46:58 - [Timeout] Slave 4 - Lệnh 0403002600022595
+15:46:59 - [Timeout] Slave 4 - Lệnh 0403003A0002E453
+15:47:00 - [Timeout] Slave 4 - Lệnh 0403004E0002A449
+15:47:02 - [Timeout] Slave 4 - Lệnh 0403006200026580
+15:47:03 - [Timeout] Slave 4 - Lệnh 0403007600022584
+15:47:05 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+15:47:06 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+15:47:07 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+15:47:09 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+15:47:10 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+15:47:11 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+15:47:13 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+15:47:14 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+15:47:15 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+15:47:15 - [Write OK] Slave 5 đã nhận lệnh ghi thành công.
+15:47:15 - [Write OK] Slave 5 đã nhận lệnh ghi thành công.
+15:47:16 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+15:47:18 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+15:47:19 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+15:47:20 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+15:47:22 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+15:47:23 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+15:47:23 - [Write OK] Slave 5 đã nhận lệnh ghi thành công.
+15:47:23 - [Write OK] Slave 5 đã nhận lệnh ghi thành công.
+15:47:24 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+15:47:26 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+15:47:27 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+15:47:28 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+15:47:29 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+15:47:31 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+15:47:32 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+15:47:33 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+15:47:35 - [Timeout] Slave 2 - Lệnh 02031028000240F0
+15:47:35 - [Parser] OK: Slave 5 - Addr 18 - Val: 30.09
+15:47:35 - [Warning] Slave 5 (Addr: 38) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:47:36 - [Warning] Slave 5 (Addr: 58) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:47:36 - [Warning] Slave 5 (Addr: 78) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:47:36 - [Warning] Slave 5 (Addr: 98) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:47:37 - [Warning] Slave 5 (Addr: 118) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:47:37 - [Warning] Slave 5 (Addr: 138) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:47:37 - [Warning] Slave 5 (Addr: 158) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:47:39 - [Timeout] Slave 6 - Lệnh 06030012000265B9
+15:47:40 - [Timeout] Slave 6 - Lệnh 0603002600022477
+15:47:41 - [Timeout] Slave 6 - Lệnh 0603003A0002E5B1
+15:47:43 - [Timeout] Slave 6 - Lệnh 0603004E0002A5AB
+15:47:44 - [Timeout] Slave 6 - Lệnh 0603006200026462
+15:47:45 - [Timeout] Slave 6 - Lệnh 0603007600022466
+15:47:47 - [Timeout] Slave 6 - Lệnh 0603008A0002E456
+15:47:48 - [Timeout] Slave 6 - Lệnh 0603009E0002A452
+15:47:49 - [Timeout] Slave 3 - Lệnh 03030012000265EC
+15:47:50 - [Timeout] Slave 3 - Lệnh 0303002600022422
+15:47:52 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+15:47:53 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+15:47:54 - [Timeout] Slave 3 - Lệnh 0303006200026437
+15:47:56 - [Timeout] Slave 3 - Lệnh 0303007600022433
+15:47:57 - [Timeout] Slave 3 - Lệnh 0303008A0002E403
+15:47:58 - [Timeout] Slave 3 - Lệnh 0303009E0002A407
+15:48:00 - [Timeout] Slave 4 - Lệnh 040300120002645B
+15:48:01 - [Timeout] Slave 4 - Lệnh 0403002600022595
+15:49:14 - [Service] Starting communication thread...
+15:49:16 - [Init] Loaded 56 control codes for 6 devices.
+15:49:16 - [Serial] Port COM4 opened successfully at 9600 bps.
+15:49:17 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+15:49:19 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+15:49:20 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+15:49:21 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+15:49:22 - ❌ [HTTP Failed] Endpoint: api/Station/slave/05. Lỗi: Response status code does not indicate success: 500 (Internal Server Error).
+15:49:23 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+15:49:24 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+15:49:25 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+15:49:26 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+15:49:28 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+15:49:29 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+15:49:30 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+15:49:32 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+15:49:33 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+15:49:34 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+15:49:36 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+15:49:37 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+15:49:38 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+15:49:39 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+15:49:41 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+15:49:42 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+15:49:43 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+15:49:45 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+15:49:46 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+15:49:47 - [Timeout] Slave 2 - Lệnh 02031028000240F0
+15:49:48 - [Parser] OK: Slave 5 - Addr 18 - Val: 30.22
+15:49:48 - [Warning] Slave 5 (Addr: 38) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:49:48 - [Warning] Slave 5 (Addr: 58) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:49:49 - [Warning] Slave 5 (Addr: 78) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:49:49 - [Warning] Slave 5 (Addr: 98) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:49:49 - [Warning] Slave 5 (Addr: 118) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:49:50 - [Warning] Slave 5 (Addr: 138) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:49:50 - [Warning] Slave 5 (Addr: 158) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+15:49:51 - [Timeout] Slave 6 - Lệnh 06030012000265B9
+15:49:53 - [Timeout] Slave 6 - Lệnh 0603002600022477
+15:49:54 - [Timeout] Slave 6 - Lệnh 0603003A0002E5B1
+15:49:55 - [Timeout] Slave 6 - Lệnh 0603004E0002A5AB
+15:49:57 - [Timeout] Slave 6 - Lệnh 0603006200026462
+15:49:58 - [Timeout] Slave 6 - Lệnh 0603007600022466
+15:49:59 - [Timeout] Slave 6 - Lệnh 0603008A0002E456
+15:50:00 - [Timeout] Slave 6 - Lệnh 0603009E0002A452
+15:50:02 - [Timeout] Slave 3 - Lệnh 03030012000265EC
+15:50:03 - [Timeout] Slave 3 - Lệnh 0303002600022422
+15:50:04 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+15:50:06 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+15:50:07 - [Timeout] Slave 3 - Lệnh 0303006200026437
+15:50:08 - [Timeout] Slave 3 - Lệnh 0303007600022433
+15:50:10 - [Timeout] Slave 3 - Lệnh 0303008A0002E403
+15:50:11 - [Timeout] Slave 3 - Lệnh 0303009E0002A407
+15:50:12 - [Timeout] Slave 4 - Lệnh 040300120002645B
+15:50:13 - [Timeout] Slave 4 - Lệnh 0403002600022595
+15:50:15 - [Timeout] Slave 4 - Lệnh 0403003A0002E453
+15:50:16 - [Timeout] Slave 4 - Lệnh 0403004E0002A449
+15:50:17 - [Timeout] Slave 4 - Lệnh 0403006200026580
+15:50:19 - [Timeout] Slave 4 - Lệnh 0403007600022584
+15:50:20 - [Timeout] Slave 4 - Lệnh 0403008A0002E5B4
+15:50:21 - [Timeout] Slave 4 - Lệnh 0403009E0002A5B0
+15:50:23 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+15:50:24 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+15:50:26 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+15:50:27 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+15:50:28 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+15:50:30 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+15:50:31 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+15:50:32 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+15:50:34 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+15:50:35 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+15:50:38 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+15:50:41 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+15:52:42 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+15:52:44 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+15:52:45 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+15:52:46 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+15:52:48 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+15:52:49 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+15:52:50 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+15:52:52 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+15:52:53 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+15:52:54 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+15:57:58 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+16:00:36 - [Service] Starting communication thread...
+16:00:38 - [Init] Loaded 56 control codes for 6 devices.
+16:00:38 - [Serial] Port COM4 opened successfully at 9600 bps.
+16:00:39 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+16:00:40 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+16:00:42 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+16:00:43 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+16:00:44 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+16:00:45 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+16:00:47 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+16:00:48 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+16:00:49 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+16:00:51 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+16:00:52 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+16:00:53 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+16:00:55 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+16:00:56 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+16:00:57 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+16:00:58 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+16:01:00 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+16:01:02 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+16:01:02 - ❌ [HTTP Failed] Endpoint: api/Station/slave/05. Lỗi: Response status code does not indicate success: 500 (Internal Server Error).
+16:01:04 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+16:01:05 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+16:01:06 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+16:01:07 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+16:01:09 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+16:01:10 - [Timeout] Slave 2 - Lệnh 02031028000240F0
+16:01:10 - [Parser] OK: Slave 5 - Addr 18 - Val: 29.88
+16:01:11 - [Warning] Slave 5 (Addr: 38) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:01:11 - [Warning] Slave 5 (Addr: 58) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:01:11 - [Warning] Slave 5 (Addr: 78) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:01:12 - [Warning] Slave 5 (Addr: 98) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:01:12 - [Warning] Slave 5 (Addr: 118) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:01:12 - [Warning] Slave 5 (Addr: 138) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:01:13 - [Warning] Slave 5 (Addr: 158) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:01:14 - [Timeout] Slave 6 - Lệnh 06030012000265B9
+16:01:15 - [Timeout] Slave 6 - Lệnh 0603002600022477
+16:01:17 - [Timeout] Slave 6 - Lệnh 0603003A0002E5B1
+16:01:18 - [Timeout] Slave 6 - Lệnh 0603004E0002A5AB
+16:01:19 - [Timeout] Slave 6 - Lệnh 0603006200026462
+16:01:21 - [Timeout] Slave 6 - Lệnh 0603007600022466
+16:01:22 - [Timeout] Slave 6 - Lệnh 0603008A0002E456
+16:01:23 - [Timeout] Slave 6 - Lệnh 0603009E0002A452
+16:01:24 - [Timeout] Slave 3 - Lệnh 03030012000265EC
+16:01:26 - [Timeout] Slave 3 - Lệnh 0303002600022422
+16:01:27 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+16:01:28 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+16:01:32 - [Timeout] Slave 3 - Lệnh 0303006200026437
+16:01:34 - [Timeout] Slave 3 - Lệnh 0303007600022433
+16:01:35 - [Timeout] Slave 3 - Lệnh 0303008A0002E403
+16:01:36 - [Timeout] Slave 3 - Lệnh 0303009E0002A407
+16:01:38 - [Timeout] Slave 4 - Lệnh 040300120002645B
+16:01:39 - [Timeout] Slave 4 - Lệnh 0403002600022595
+16:01:40 - [Timeout] Slave 4 - Lệnh 0403003A0002E453
+16:01:42 - [Timeout] Slave 4 - Lệnh 0403004E0002A449
+16:01:43 - [Timeout] Slave 4 - Lệnh 0403006200026580
+16:01:44 - [Timeout] Slave 4 - Lệnh 0403007600022584
+16:01:45 - [Timeout] Slave 4 - Lệnh 0403008A0002E5B4
+16:01:47 - [Timeout] Slave 4 - Lệnh 0403009E0002A5B0
+16:01:49 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+16:01:50 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+16:01:51 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+16:01:52 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+16:01:54 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+16:01:55 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+16:01:56 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+16:01:58 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+16:01:59 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+16:02:00 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+16:02:02 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+16:02:03 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+16:02:04 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+16:02:05 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+16:02:07 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+16:02:08 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+16:02:09 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+16:02:11 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+16:02:12 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+16:02:13 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+16:02:15 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+16:02:16 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+16:02:17 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+16:02:18 - [Timeout] Slave 2 - Lệnh 02031028000240F0
+16:02:19 - [Parser] OK: Slave 5 - Addr 18 - Val: 29.97
+16:02:19 - [Warning] Slave 5 (Addr: 38) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:02:20 - [Warning] Slave 5 (Addr: 58) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:02:20 - [Warning] Slave 5 (Addr: 78) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:02:20 - [Warning] Slave 5 (Addr: 98) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:02:21 - [Warning] Slave 5 (Addr: 118) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:02:21 - [Warning] Slave 5 (Addr: 138) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:02:21 - [Warning] Slave 5 (Addr: 158) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:02:23 - [Timeout] Slave 6 - Lệnh 06030012000265B9
+16:02:24 - [Timeout] Slave 6 - Lệnh 0603002600022477
+16:02:25 - [Timeout] Slave 6 - Lệnh 0603003A0002E5B1
+16:02:26 - [Timeout] Slave 6 - Lệnh 0603004E0002A5AB
+16:02:28 - [Timeout] Slave 6 - Lệnh 0603006200026462
+16:02:29 - [Timeout] Slave 6 - Lệnh 0603007600022466
+16:02:30 - [Timeout] Slave 6 - Lệnh 0603008A0002E456
+16:02:32 - [Timeout] Slave 6 - Lệnh 0603009E0002A452
+16:02:33 - [Timeout] Slave 3 - Lệnh 03030012000265EC
+16:02:34 - [Timeout] Slave 3 - Lệnh 0303002600022422
+16:02:36 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+16:02:37 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+16:02:38 - [Timeout] Slave 3 - Lệnh 0303006200026437
+16:02:39 - [Timeout] Slave 3 - Lệnh 0303007600022433
+16:02:41 - [Timeout] Slave 3 - Lệnh 0303008A0002E403
+16:02:42 - [Timeout] Slave 3 - Lệnh 0303009E0002A407
+16:02:43 - [Timeout] Slave 4 - Lệnh 040300120002645B
+16:02:45 - [Timeout] Slave 4 - Lệnh 0403002600022595
+16:02:46 - [Timeout] Slave 4 - Lệnh 0403003A0002E453
+16:02:47 - [Timeout] Slave 4 - Lệnh 0403004E0002A449
+16:02:49 - [Timeout] Slave 4 - Lệnh 0403006200026580
+16:02:50 - [Timeout] Slave 4 - Lệnh 0403007600022584
+16:02:51 - [Timeout] Slave 4 - Lệnh 0403008A0002E5B4
+16:02:52 - [Timeout] Slave 4 - Lệnh 0403009E0002A5B0
+16:02:54 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+16:02:56 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+16:02:57 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+16:02:58 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+16:02:59 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+16:06:00 - [Service] Starting communication thread...
+16:06:02 - [Init] Loaded 56 control codes for 6 devices.
+16:06:02 - [Serial] Port COM4 opened successfully at 9600 bps.
+16:06:03 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+16:06:05 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+16:06:06 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+16:06:07 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+16:06:09 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+16:06:10 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+16:06:11 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+16:06:13 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+16:06:14 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+16:06:15 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+16:06:16 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+16:06:18 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+16:06:19 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+16:06:20 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+16:06:22 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+16:06:23 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+16:06:24 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+16:06:26 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+16:06:27 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+16:06:28 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+16:06:29 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+16:06:31 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+16:06:32 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+16:06:33 - [Timeout] Slave 2 - Lệnh 02031028000240F0
+16:06:34 - [Parser] OK: Slave 5 - Addr 18 - Val: 29.87
+16:06:34 - [Warning] Slave 5 (Addr: 38) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:06:34 - [Warning] Slave 5 (Addr: 58) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:06:35 - [Warning] Slave 5 (Addr: 78) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:06:35 - [Warning] Slave 5 (Addr: 98) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:06:35 - [Warning] Slave 5 (Addr: 118) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:06:36 - [Warning] Slave 5 (Addr: 138) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:06:36 - [Warning] Slave 5 (Addr: 158) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:06:37 - [Timeout] Slave 6 - Lệnh 06030012000265B9
+16:06:39 - [Timeout] Slave 6 - Lệnh 0603002600022477
+16:06:40 - [Timeout] Slave 6 - Lệnh 0603003A0002E5B1
+16:06:41 - [Timeout] Slave 6 - Lệnh 0603004E0002A5AB
+16:06:43 - [Timeout] Slave 6 - Lệnh 0603006200026462
+16:06:44 - [Timeout] Slave 6 - Lệnh 0603007600022466
+16:06:45 - [Timeout] Slave 6 - Lệnh 0603008A0002E456
+16:06:46 - [Timeout] Slave 6 - Lệnh 0603009E0002A452
+16:06:48 - [Timeout] Slave 3 - Lệnh 03030012000265EC
+16:06:49 - [Timeout] Slave 3 - Lệnh 0303002600022422
+16:06:50 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+16:06:52 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+16:06:53 - [Timeout] Slave 3 - Lệnh 0303006200026437
+16:09:38 - [Service] Starting communication thread...
+16:09:40 - [Init] Loaded 56 control codes for 6 devices.
+16:09:40 - [Serial] Port COM4 opened successfully at 9600 bps.
+16:09:41 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+16:09:42 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+16:09:44 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+16:09:45 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+16:09:46 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+16:09:47 - ❌ [HTTP Failed] Endpoint: api/Station/slave/05. Lỗi: Response status code does not indicate success: 500 (Internal Server Error).
+16:09:48 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+16:09:49 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+16:09:50 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+16:09:52 - [Timeout] Slave 1 - Lệnh 0103201600022E0F
+16:09:53 - [Timeout] Slave 1 - Lệnh 0103201800024FCC
+16:09:54 - [Timeout] Slave 1 - Lệnh 0103101E0002A0CD
+16:09:55 - [Timeout] Slave 1 - Lệnh 01031028000240C3
+16:09:57 - [Timeout] Slave 2 - Lệnh 0203200600022FF9
+16:09:58 - [Timeout] Slave 2 - Lệnh 0203200800024E3A
+16:09:59 - [Timeout] Slave 2 - Lệnh 0203200A0002EFFA
+16:10:01 - [Timeout] Slave 2 - Lệnh 0203200C00020FFB
+16:10:02 - [Timeout] Slave 2 - Lệnh 0203200E0002AE3B
+16:10:03 - [Timeout] Slave 2 - Lệnh 020320100002CE3D
+16:10:05 - [Timeout] Slave 2 - Lệnh 0203201200026FFD
+16:10:06 - [Timeout] Slave 2 - Lệnh 0203201400028FFC
+16:10:07 - [Timeout] Slave 2 - Lệnh 0203201600022E3C
+16:10:09 - [Timeout] Slave 2 - Lệnh 0203201800024FFF
+16:10:10 - [Timeout] Slave 2 - Lệnh 0203101E0002A0FE
+16:10:11 - [Timeout] Slave 2 - Lệnh 02031028000240F0
+16:10:12 - [Parser] OK: Slave 5 - Addr 18 - Val: 29.59
+16:10:12 - [Warning] Slave 5 (Addr: 38) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:10:12 - [Warning] Slave 5 (Addr: 58) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:10:13 - [Warning] Slave 5 (Addr: 78) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:10:13 - [Warning] Slave 5 (Addr: 98) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:10:13 - [Warning] Slave 5 (Addr: 118) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:10:14 - [Warning] Slave 5 (Addr: 138) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:10:14 - [Warning] Slave 5 (Addr: 158) trả về mã lỗi sensor: 99999. Bỏ qua không lưu.
+16:10:16 - [Timeout] Slave 6 - Lệnh 06030012000265B9
+16:10:17 - [Timeout] Slave 6 - Lệnh 0603002600022477
+16:10:18 - [Timeout] Slave 6 - Lệnh 0603003A0002E5B1
+16:10:19 - [Timeout] Slave 6 - Lệnh 0603004E0002A5AB
+16:10:21 - [Timeout] Slave 6 - Lệnh 0603006200026462
+16:10:22 - [Timeout] Slave 6 - Lệnh 0603007600022466
+16:10:23 - [Timeout] Slave 6 - Lệnh 0603008A0002E456
+16:10:25 - [Timeout] Slave 6 - Lệnh 0603009E0002A452
+16:10:26 - [Timeout] Slave 3 - Lệnh 03030012000265EC
+16:10:27 - [Timeout] Slave 3 - Lệnh 0303002600022422
+16:10:29 - [Timeout] Slave 3 - Lệnh 0303003A0002E5E4
+16:10:30 - [Timeout] Slave 3 - Lệnh 0303004E0002A5FE
+16:10:31 - [Timeout] Slave 3 - Lệnh 0303006200026437
+16:10:33 - [Timeout] Slave 3 - Lệnh 0303007600022433
+16:10:34 - [Timeout] Slave 3 - Lệnh 0303008A0002E403
+16:10:35 - [Timeout] Slave 3 - Lệnh 0303009E0002A407
+16:10:37 - [Timeout] Slave 4 - Lệnh 040300120002645B
+16:10:38 - [Timeout] Slave 4 - Lệnh 0403002600022595
+16:10:39 - [Timeout] Slave 4 - Lệnh 0403003A0002E453
+16:10:41 - [Timeout] Slave 4 - Lệnh 0403004E0002A449
+16:10:42 - [Timeout] Slave 4 - Lệnh 0403006200026580
+16:10:43 - [Timeout] Slave 4 - Lệnh 0403007600022584
+16:10:45 - [Timeout] Slave 4 - Lệnh 0403008A0002E5B4
+16:10:46 - [Timeout] Slave 4 - Lệnh 0403009E0002A5B0
+16:10:48 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+16:10:52 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+16:10:58 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+16:11:01 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+16:11:02 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08

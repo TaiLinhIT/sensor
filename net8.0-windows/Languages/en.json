@@ -96,7 +96,47 @@
     "Slave Id": "Slave Id",
     "Address": "Address",
     "Search": "Search",
-    "Confirm": "Confirm"
+    "Confirm": "Confirm",
+    //Message
+    "ErrLoadDevices": "Error loading device list",
+    "ErrLoadControlCode": "Error loading control code",
+    "MsgNoDeviceSelected": "No device selected",
+    "MsgEditSuccess": "Edit successfully!",
+    "ErrEditDevice": "Error editing device",
+    "MsgDeleteSuccess": "Delete successfully!",
+    "ErrDeleteDevice": "Error deleting device",
+    "MsgControlCodeExists": "Control code already exists!",
+    "ErrAddControlCode": "Error adding control code",
+    "MsgControlCodeNotFound": "Control code not found",
+    "Notification": "Notification",
+    "Error": "Error",
+    "ErrAddDevice": "Error adding device",
+    "MsgDeviceExists": "Device already exists!",
+    "Common": {
+        "System": "System",
+        "Add": "Add",
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "Search": "Search",
+        "Confirm": "Confirm",
+        "Save": "Save",
+        "Cancel": "Cancel"
+    },
+    "Messages": {
+        "Success": {
+            "Edit": "Edited successfully!",
+            "Delete": "Deleted successfully!",
+            "Add": "Added successfully!"
+        },
+        "Errors": {
+            "LoadDevices": "Error loading devices",
+            "AddDevice": "Error adding device",
+            "AddControlCode": "Error adding control code",
+            "DeviceExists": "Device already exists!",
+            "ControlCodeExists": "Control code already exists!"
+        }
+    }
+
 
 
 

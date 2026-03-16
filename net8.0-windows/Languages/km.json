@@ -96,5 +96,44 @@
     "Slave Id": "លេខសម្គាល់ Slave",
     "Address": "អាសយដ្ឋាន",
     "Search": "ស្វែងរក",
-    "Confirm": "បញ្ជាក់"
+    "Confirm": "បញ្ជាក់",
+    //message
+    "ErrLoadDevices": "កំហុសក្នុងការផ្ទុកបញ្ជីឧបករណ៍",
+    "ErrLoadControlCode": "កំហុសក្នុងការផ្ទុកកូដបញ្ជា",
+    "MsgNoDeviceSelected": "មិនទាន់បានជ្រើសរើសឧបករណ៍",
+    "MsgEditSuccess": "កែសម្រួលដោយជោគជ័យ!",
+    "ErrEditDevice": "កំហុសក្នុងការកែសម្រួលឧបករណ៍",
+    "MsgDeleteSuccess": "លុបដោយជោគជ័យ!",
+    "ErrDeleteDevice": "កំហុសក្នុងការលុបឧបករណ៍",
+    "MsgControlCodeExists": "កូដបញ្ជាមានរួចហើយ!",
+    "ErrAddControlCode": "កំហុសក្នុងការបន្ថែមលេខកូដបញ្ជា",
+    "MsgControlCodeNotFound": "រកមិនឃើញកូដបញ្ជាទេ",
+    "Notification": "ការជូនដំណឹង",
+    "Error": "កំហុស",
+    "ErrAddDevice": "កំហុសក្នុងការបន្ថែមឧបករណ៍",
+    "MsgDeviceExists": "ឧបករណ៍មានរួចហើយ!",
+    "Common": {
+        "System": "系统",
+        "Add": "添加",
+        "Edit": "编辑",
+        "Delete": "删除",
+        "Search": "搜索",
+        "Confirm": "确认",
+        "Save": "保存",
+        "Cancel": "取消"
+    },
+    "Messages": {
+        "Success": {
+            "Edit": "编辑成功！",
+            "Delete": "删除成功！",
+            "Add": "添加成功！"
+        },
+        "Errors": {
+            "LoadDevices": "加载设备列表失败",
+            "AddDevice": "添加设备失败",
+            "AddControlCode": "添加控制码失败",
+            "DeviceExists": "设备已存在！",
+            "ControlCodeExists": "控制码已存在！"
+        }
+    }
 }

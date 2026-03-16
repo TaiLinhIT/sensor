@@ -96,5 +96,44 @@
     "Slave Id": "从站ID",
     "Address": "地址",
     "Search": "搜索",
-    "Confirm": "确认"
+    "Confirm": "确认",
+    //message
+    "ErrLoadDevices": "加载设备列表错误",
+    "ErrLoadControlCode": "加载控制代码错误",
+    "MsgNoDeviceSelected": "未选择设备",
+    "MsgEditSuccess": "编辑成功!",
+    "ErrEditDevice": "编辑设备错误",
+    "MsgDeleteSuccess": "删除成功!",
+    "ErrDeleteDevice": "删除设备错误",
+    "MsgControlCodeExists": "控制代码已存在!",
+    "ErrAddControlCode": "添加控制代码错误",
+    "MsgControlCodeNotFound": "未找到控制代码",
+    "Notification": "通知",
+    "Error": "错误",
+    "ErrAddDevice": "添加设备错误",
+    "MsgDeviceExists": "设备已存在!",
+    "Common": {
+        "System": "系统",
+        "Add": "添加",
+        "Edit": "编辑",
+        "Delete": "删除",
+        "Search": "搜索",
+        "Confirm": "确认",
+        "Save": "保存",
+        "Cancel": "取消"
+    },
+    "Messages": {
+        "Success": {
+            "Edit": "编辑成功！",
+            "Delete": "删除成功！",
+            "Add": "添加成功！"
+        },
+        "Errors": {
+            "LoadDevices": "加载设备列表失败",
+            "AddDevice": "添加设备失败",
+            "AddControlCode": "添加控制码失败",
+            "DeviceExists": "设备已存在！",
+            "ControlCodeExists": "控制码已存在！"
+        }
+    }
 }

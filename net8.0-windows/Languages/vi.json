@@ -96,5 +96,45 @@
     "Slave Id": "Mã Slave",
     "Address": "Địa chỉ",
     "Search": "Tìm kiếm",
-    "Confirm": "Xác nhận"
+    "Confirm": "Xác nhận",
+    //message
+    "ErrLoadDevices": "Lỗi khi tải danh sách thiết bị",
+    "ErrLoadControlCode": "Lỗi khi tải mã điều khiển",
+    "MsgNoDeviceSelected": "Chưa chọn thiết bị nào",
+    "MsgEditSuccess": "Chỉnh sửa thành công!",
+    "ErrEditDevice": "Lỗi khi chỉnh sửa thiết bị",
+    "MsgDeleteSuccess": "Xóa thành công!",
+    "ErrDeleteDevice": "Lỗi khi xóa thiết bị",
+    "MsgControlCodeExists": "Mã điều khiển đã tồn tại!",
+    "ErrAddControlCode": "Lỗi khi thêm mã điều khiển",
+    "MsgControlCodeNotFound": "Không tìm thấy mã điều khiển",
+    "Notification": "Thông báo",
+    "Error": "Lỗi",
+    "ErrAddDevice": "Lỗi khi thêm thiết bị",
+    "MsgDeviceExists": "Thiết bị đã tồn tại!",
+    "Common": {
+        "System": "Hệ thống",
+        "Add": "Thêm",
+        "Edit": "Chỉnh sửa",
+        "Delete": "Xóa",
+        "Search": "Tìm kiếm",
+        "Confirm": "Xác nhận",
+        "Save": "Lưu",
+        "Cancel": "Hủy"
+    },
+    "Messages": {
+        "Success": {
+            "Edit": "Chỉnh sửa thành công!",
+            "Delete": "Xóa thành công!",
+            "Add": "Thêm thành công!"
+        },
+        "Errors": {
+            "LoadDevices": "Lỗi khi tải danh sách thiết bị",
+            "AddDevice": "Lỗi khi thêm thiết bị",
+            "AddControlCode": "Lỗi khi thêm mã điều khiển",
+            "DeviceExists": "Thiết bị đã tồn tại!",
+            "ControlCodeExists": "Mã điều khiển đã tồn tại!"
+        }
+    }
+
 }
