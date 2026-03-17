@@ -1,0 +1,15 @@
+14:09:24 - [Service] Starting communication thread...
+14:09:27 - [Init] Loaded 72 control codes for 8 devices.
+14:09:27 - [Serial] Port COM4 opened successfully at 9600 bps.
+14:09:28 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
+14:09:29 - [Timeout] Slave 1 - Lệnh 0103200800024E09
+14:09:31 - [Timeout] Slave 1 - Lệnh 0103200A0002EFC9
+14:09:32 - [Timeout] Slave 1 - Lệnh 0103200C00020FC8
+14:09:33 - [Timeout] Slave 1 - Lệnh 0103200E0002AE08
+14:09:35 - [Timeout] Slave 1 - Lệnh 010320100002CE0E
+14:09:36 - [Timeout] Slave 1 - Lệnh 0103201200026FCE
+14:09:37 - [Timeout] Slave 1 - Lệnh 0103201400028FCF
+14:13:28 - [Service] Starting communication thread...
+14:13:30 - [Init] Loaded 72 control codes for 8 devices.
+14:13:31 - [Serial] Port COM4 opened successfully at 9600 bps.
+14:13:33 - [Timeout] Slave 1 - Lệnh 0103200600022FCA
