@@ -1,13 +1,19 @@
 {
     "Menu": {
-        "Menu": "Menu",
-        "System of parameters": "Hệ thống các thông số",
-        "Sensor type setting": "Cài đặt loại cảm biến",
-        "Type command setting": "Cài đặt loại lệnh",
-        "Device setting": "Cài đặt thiết bị",
-        "Data compensation": "Bù dữ liệu",
-        "Hardware setting": "Cài đặt phần cứng",
-        "Reset password": "Đặt lại mật khẩu"
+        "Dashboard": "Bảng điều khiển",
+        "Tool": "Công cụ",
+        "Setting": {
+            "Title": "Cài đặt",
+            "SystemParameters": "Hệ thống tham số",
+            "SensorType": "Thiết lập loại cảm biến",
+            "TypeCommand": "Thiết lập lệnh điều khiển",
+            "Device": "Thiết lập thiết bị",
+            "ActiveSetting": "Thiết lập hoạt động",
+            "DataCompensation": "Bù trừ dữ liệu",
+            "Hardware": "Thiết lập phần cứng",
+            "ResetPassword": "Đặt lại mật khẩu"
+        },
+        "Help": "Trợ giúp"
     },
     "Common": {
         "System": "Hệ thống",
@@ -37,12 +43,20 @@
         "Save": "Lưu",
         "Database name": "Tên cơ sở dữ liệu"
     },
+    "Sensor view": {
+        "Id": "Mã định danh",
+        "Name": "Tên",
+        "Add a new sensor type": "Thêm loại cảm biến mới",
+        "Edit sensor type": "Sửa loại cảm biến",
+        "Delete sensor type": "Xóa loại cảm biến"
+    },
     "Command view": {
+        "Id": "Mã định danh",
         "Code type": "Loại mã",
-        "Slave ID": "Slave ID",
-        "Function code": "Mã chức năng",
-        "CRC Check": "Kiểm tra CRC",
-        "Name": "Tên"
+        "Name": "Tên",
+        "Add a new command": "Thêm mã điều khiển mới",
+        "Edit command": "Sửa mã điều khiển",
+        "Delete command": "Xóa mã điều khiển"
     },
     "Setting view": {
         "Device": {
@@ -50,6 +64,8 @@
             "List device": "Danh sách thiết bị",
             "Device id": "Mã định danh thiết bị",
             "Name device": "Tên thiết bị",
+            "Active": "Hoạt động",
+            "Sensor type": "Loại cảm biến",
             "Name code type": "Tên loại mã",
             "Name type": "Tên loại",
             "Address device": "Địa chỉ thiết bị",
@@ -67,6 +83,9 @@
             "InActive": "Không hoạt động",
             "CodeType": "Mã định danh loại mã",
             "Name": "Tên",
+            "Device Name": "Tên thiết bị",
+            "Name type": "Tên loại",
+            "Name Sensor type": "Tên loại cảm biến",
             "Factor": "Hệ số",
             "TypeId": "Mã định danh loại",
             "High": "Cao",
@@ -76,6 +95,53 @@
             "Add a new controlcode": "Thêm mã điều khiển mới",
             "Edit controlcode": "Sửa mã điều khiển",
             "Delete controlcode": "Xóa mã điều khiển"
+        }
+    },
+    "Data compensation": {
+        "Slave Id": "Mã Slave",
+        "Address": "Địa chỉ",
+        "Compensation value": "Giá trị bù trừ",
+        "Id": "Mã định danh",
+        "Name Station": "Tên trạm"
+    },
+    "Hardware": {
+        "App": {
+            "Title": "TRÌNH GỠ LỖI PHẦN CỨNG MODBUS PRO",
+            "RefreshPorts": "Làm mới cổng",
+            "SaveConfig": "Lưu cấu hình"
+        },
+        "SerialSettings": {
+            "Header": "Cài đặt cổng nối tiếp",
+            "Port": "Cổng:",
+            "Baud": "Tốc độ Baud:",
+            "Parity": "Chẵn lẻ:",
+            "SlaveId": "Mã Slave ID:",
+            "Timeout": "Thời gian chờ (ms):",
+            "OpenPort": "MỞ CỔNG",
+            "ClosePort": "ĐÓNG CỔNG",
+            "StatusDisconnected": "Trạng thái: Đã ngắt kết nối",
+            "StatusConnected": "Trạng thái: Đã kết nối"
+        },
+        "ModbusFunctions": {
+            "ReadCoils": "01H / 02H - Đọc Coils & Inputs",
+            "ReadRegisters": "03H / 04H - Đọc thanh ghi",
+            "SingleWrite": "05H / 06H - Ghi đơn",
+            "MultiWrite": "10H - Ghi nhiều thanh ghi",
+            "StartAddress": "Địa chỉ đầu",
+            "Quantity": "Số lượng",
+            "Address": "Địa chỉ",
+            "ValueHex": "Giá trị (Hex)",
+            "DataHex": "Dữ liệu (Hex, cách nhau bằng dấu cách):",
+            "BtnRead": "Đọc",
+            "BtnWrite": "Ghi"
+        },
+        "Terminal": {
+            "ArbitraryCommand": "Lệnh tùy chỉnh (Nhập Hex thủ công)",
+            "AutoCrc": "Tự động CRC",
+            "SendCommand": "GỬI LỆNH",
+            "TxBuffer": "TX - BỘ ĐỆM GỬI",
+            "RxBuffer": "RX - BỘ ĐỆM NHẬN",
+            "Clear": "Xóa"
         }
     },
     "Messages": {

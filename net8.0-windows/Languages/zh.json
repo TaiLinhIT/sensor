@@ -1,13 +1,19 @@
 {
     "Menu": {
-        "Menu": "菜单",
-        "System of parameters": "系统参数",
-        "Sensor type setting": "传感器类型设置",
-        "Type command setting": "命令类型设置",
-        "Device setting": "设备设置",
-        "Data compensation": "数据补偿",
-        "Hardware setting": "硬件设置",
-        "Reset password": "重置密码"
+        "Dashboard": "仪表板",
+        "Tool": "工具",
+        "Setting": {
+            "Title": "设置",
+            "SystemParameters": "系统参数",
+            "SensorType": "传感器类型设置",
+            "TypeCommand": "指令类型设置",
+            "Device": "设备设置",
+            "ActiveSetting": "激活设置",
+            "DataCompensation": "数据补偿",
+            "Hardware": "硬件设置",
+            "ResetPassword": "重置密码"
+        },
+        "Help": "帮助"
     },
     "Common": {
         "System": "系统",
@@ -37,19 +43,29 @@
         "Save": "保存",
         "Database name": "数据库名称"
     },
+    "Sensor view": {
+        "Id": "ID",
+        "Name": "名称",
+        "Add a new sensor type": "添加新传感器类型",
+        "Edit sensor type": "编辑传感器类型",
+        "Delete sensor type": "删除传感器类型"
+    },
     "Command view": {
-        "Code type": "代码类型",
-        "Slave ID": "从机 ID",
-        "Function code": "功能码",
-        "CRC Check": "CRC 校验",
-        "Name": "名称"
+        "Id": "ID",
+        "Code type": "指令类型",
+        "Name": "名称",
+        "Add a new command": "添加新指令",
+        "Edit command": "编辑指令",
+        "Delete command": "删除指令"
     },
     "Setting view": {
         "Device": {
             "Detail device": "设备详情",
             "List device": "设备列表",
-            "Device id": "设备 ID",
+            "Device id": "设备ID",
             "Name device": "设备名称",
+            "Active": "激活",
+            "Sensor type": "传感器类型",
             "Name code type": "代码类型名称",
             "Name type": "类型名称",
             "Address device": "设备地址",
@@ -60,15 +76,18 @@
         "ControlCode": {
             "Detail controlcode": "控制码详情",
             "List controlcode": "控制码列表",
-            "CodeId": "代码 ID",
-            "DevId": "设备 ID",
+            "CodeId": "代码ID",
+            "DevId": "设备ID",
             "Code": "代码",
             "Active": "激活",
             "InActive": "未激活",
-            "CodeType": "代码类型 ID",
+            "CodeType": "代码类型ID",
             "Name": "名称",
+            "Device Name": "设备名称",
+            "Name type": "类型名称",
+            "Name Sensor type": "传感器类型名称",
             "Factor": "系数",
-            "TypeId": "类型 ID",
+            "TypeId": "类型ID",
             "High": "高",
             "Low": "低",
             "IfShow": "是否显示",
@@ -76,6 +95,53 @@
             "Add a new controlcode": "添加新控制码",
             "Edit controlcode": "编辑控制码",
             "Delete controlcode": "删除控制码"
+        }
+    },
+    "Data compensation": {
+        "Slave Id": "从站 ID",
+        "Address": "地址",
+        "Compensation value": "补偿值",
+        "Id": "ID",
+        "Name Station": "站名"
+    },
+    "Hardware": {
+        "App": {
+            "Title": "MODBUS 硬件调试器专业版",
+            "RefreshPorts": "刷新端口",
+            "SaveConfig": "保存配置"
+        },
+        "SerialSettings": {
+            "Header": "串口设置",
+            "Port": "端口:",
+            "Baud": "波特率:",
+            "Parity": "校验位:",
+            "SlaveId": "从机 ID:",
+            "Timeout": "超时 (ms):",
+            "OpenPort": "打开端口",
+            "ClosePort": "关闭端口",
+            "StatusDisconnected": "状态: 未连接",
+            "StatusConnected": "状态: 已连接"
+        },
+        "ModbusFunctions": {
+            "ReadCoils": "01H / 02H - 读取线圈与离散输入",
+            "ReadRegisters": "03H / 04H - 读取寄存器",
+            "SingleWrite": "05H / 06H - 单次写入",
+            "MultiWrite": "10H - 写入多个寄存器",
+            "StartAddress": "起始地址",
+            "Quantity": "数量",
+            "Address": "地址",
+            "ValueHex": "值 (Hex)",
+            "DataHex": "数据 (Hex, 以空格分隔):",
+            "BtnRead": "读取",
+            "BtnWrite": "写入"
+        },
+        "Terminal": {
+            "ArbitraryCommand": "自定义命令 (手动 Hex)",
+            "AutoCrc": "自动 CRC",
+            "SendCommand": "发送命令",
+            "TxBuffer": "TX - 发送缓存",
+            "RxBuffer": "RX - 接收缓存",
+            "Clear": "清除"
         }
     },
     "Messages": {

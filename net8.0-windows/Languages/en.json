@@ -1,13 +1,19 @@
 {
     "Menu": {
-        "Menu": "Menu",
-        "System of parameters": "System of parameters",
-        "Sensor type setting": "Sensor type setting",
-        "Type command setting": "Type command setting",
-        "Device setting": "Device setting",
-        "Data compensation": "Data compensation",
-        "Hardware setting": "Hardware setting",
-        "Reset password": "Reset password"
+        "Dashboard": "Dashboard",
+        "Tool": "Tool",
+        "Setting": {
+            "Title": "Setting",
+            "SystemParameters": "System of parameters",
+            "SensorType": "Sensor type setting",
+            "TypeCommand": "Type command setting",
+            "Device": "Device setting",
+            "ActiveSetting": "Active setting",
+            "DataCompensation": "Data compensation",
+            "Hardware": "Hardware setting",
+            "ResetPassword": "Reset password"
+        },
+        "Help": "Help"
     },
     "Common": {
         "System": "System",
@@ -37,28 +43,38 @@
         "Save": "Save",
         "Database name": "Database name"
     },
+    "Sensor view": {
+        "Id": "ID",
+        "Name": "Name",
+        "Add a new sensor type": "Add new sensor type",
+        "Edit sensor type": "Edit sensor type",
+        "Delete sensor type": "Delete sensor type"
+    },
     "Command view": {
+        "Id": "ID",
         "Code type": "Code type",
-        "Slave ID": "Slave ID",
-        "Function code": "Function code",
-        "CRC Check": "CRC Check",
-        "Name": "Name"
+        "Name": "Name",
+        "Add a new command": "Add new command",
+        "Edit command": "Edit command",
+        "Delete command": "Delete command"
     },
     "Setting view": {
         "Device": {
-            "Detail device": "Device detail",
+            "Detail device": "Device details",
             "List device": "Device list",
             "Device id": "Device ID",
             "Name device": "Device name",
+            "Active": "Active",
+            "Sensor type": "Sensor type",
             "Name code type": "Code type name",
             "Name type": "Type name",
             "Address device": "Device address",
-            "Add a new device": "Add a new device",
+            "Add a new device": "Add new device",
             "Edit device": "Edit device",
             "Delete device": "Delete device"
         },
         "ControlCode": {
-            "Detail controlcode": "Control code detail",
+            "Detail controlcode": "Control code details",
             "List controlcode": "Control code list",
             "CodeId": "Code ID",
             "DevId": "Device ID",
@@ -67,17 +83,67 @@
             "InActive": "Inactive",
             "CodeType": "Code type ID",
             "Name": "Name",
+            "Device Name": "Device name",
+            "Name type": "Type name",
+            "Name Sensor type": "Sensor type name",
             "Factor": "Factor",
             "TypeId": "Type ID",
             "High": "High",
             "Low": "Low",
-            "IfShow": "If display",
-            "IfCal": "If calculate",
-            "Add a new controlcode": "Add a new control code",
+            "IfShow": "Display if",
+            "IfCal": "Calculate if",
+            "Add a new controlcode": "Add new control code",
             "Edit controlcode": "Edit control code",
             "Delete controlcode": "Delete control code"
         }
     },
+    "Data compensation": {
+        "Slave Id": "Slave ID",
+        "Address": "Address",
+        "Compensation value": "Compensation value",
+        "Id": "ID",
+        "Name Station": "Station name"
+    },
+    "Hardware": {
+        "App": {
+            "Title": "MODBUS HARDWARE DEBUGGER PRO",
+            "RefreshPorts": "Refresh Ports",
+            "SaveConfig": "Save Config"
+        },
+        "SerialSettings": {
+            "Header": "Serial Port Settings",
+            "Port": "Port:",
+            "Baud": "Baud:",
+            "Parity": "Parity:",
+            "SlaveId": "Slave ID:",
+            "Timeout": "Timeout (ms):",
+            "OpenPort": "OPEN PORT",
+            "ClosePort": "CLOSE PORT",
+            "StatusDisconnected": "Status: Disconnected",
+            "StatusConnected": "Status: Connected"
+        },
+        "ModbusFunctions": {
+            "ReadCoils": "01H / 02H - Read Coils & Inputs",
+            "ReadRegisters": "03H / 04H - Read Registers",
+            "SingleWrite": "05H / 06H - Single Write",
+            "MultiWrite": "10H - Write Multiple Registers",
+            "StartAddress": "Start Address",
+            "Quantity": "Quantity",
+            "Address": "Address",
+            "ValueHex": "Value (Hex)",
+            "DataHex": "Data (Hex, space separated):",
+            "BtnRead": "Read",
+            "BtnWrite": "Write"
+        },
+        "Terminal": {
+            "ArbitraryCommand": "Arbitrary Command (Manual Hex)",
+            "AutoCrc": "Auto CRC",
+            "SendCommand": "SEND COMMAND",
+            "TxBuffer": "TX - SEND BUFFER",
+            "RxBuffer": "RX - RECEIVE BUFFER",
+            "Clear": "Clear"
+        }
+    },  
     "Messages": {
         "Success": {
             "Edit": "Edited successfully!",

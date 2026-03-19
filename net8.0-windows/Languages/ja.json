@@ -1,0 +1,147 @@
+{
+    "Menu": {
+        "Dashboard": "ダッシュボード",
+        "Tool": "ツール",
+        "Setting": {
+            "Title": "設定",
+            "SystemParameters": "システムパラメータ",
+            "SensorType": "センサタイプ設定",
+            "TypeCommand": "コマンドタイプ設定",
+            "Device": "デバイス設定",
+            "ActiveSetting": "アクティブ設定",
+            "DataCompensation": "データ補正",
+            "Hardware": "ハードウェア設定",
+            "ResetPassword": "パスワードリセット"
+        },
+        "Help": "ヘルプ"
+    },
+    "Common": {
+        "System": "システム",
+        "Add": "追加",
+        "Edit": "編集",
+        "Delete": "削除",
+        "Search": "検索",
+        "Confirm": "確認",
+        "Save": "保存",
+        "Cancel": "キャンセル"
+    },
+    "Main view": {
+        "Baudrate": "ボーレート",
+        "Port": "ポート",
+        "Assembling": "アセンブリ",
+        "Help": "ヘルプ",
+        "Play": "再生",
+        "Pause": "一時停止"
+    },
+    "System of parameter": {
+        "System display name": "システム表示名",
+        "Backup db location": "DBバックアップ場所",
+        "Account": "アカウント",
+        "Password": "パスワード",
+        "Test": "テスト",
+        "Sync": "同期",
+        "Save": "保存",
+        "Database name": "データベース名"
+    },
+    "Sensor view": {
+        "Id": "ID",
+        "Name": "名前",
+        "Add a new sensor type": "新しいセンサタイプを追加",
+        "Edit sensor type": "センサタイプを編集",
+        "Delete sensor type": "センサタイプを削除"
+    },
+    "Command view": {
+        "Id": "ID",
+        "Code type": "コードタイプ",
+        "Name": "名前",
+        "Add a new command": "新規コマンド追加",
+        "Edit command": "コマンド編集",
+        "Delete command": "コマンド削除"
+    },
+    "Setting view": {
+        "Device": {
+            "Detail device": "デバイス詳細",
+            "List device": "デバイス一覧",
+            "Device id": "デバイスID",
+            "Name device": "デバイス名",
+            "Active": "有効",
+            "Sensor type": "センサタイプ",
+            "Name code type": "コードタイプ名",
+            "Name type": "タイプ名",
+            "Address device": "デバイスアドレス",
+            "Add a new device": "新規デバイス追加",
+            "Edit device": "デバイス編集",
+            "Delete device": "デバイス削除"
+        },
+        "ControlCode": {
+            "Detail controlcode": "制御コード詳細",
+            "List controlcode": "制御コード一覧",
+            "CodeId": "コードID",
+            "DevId": "デバイスID",
+            "Code": "コード",
+            "Active": "有効",
+            "InActive": "無効",
+            "CodeType": "コードタイプID",
+            "Name": "名前",
+            "Device Name": "デバイス名",
+            "Name type": "タイプ名",
+            "Name Sensor type": "センサタイプ名",
+            "Factor": "係数",
+            "TypeId": "タイプID",
+            "High": "高",
+            "Low": "低",
+            "IfShow": "表示するかどうか",
+            "IfCal": "計算するかどうか",
+            "Add a new controlcode": "新規制御コード追加",
+            "Edit controlcode": "制御コード編集",
+            "Delete controlcode": "制御コード削除"
+        }
+    },
+    "Data compensation": {
+        "Slave Id": "スレーブID",
+        "Address": "アドレス",
+        "Compensation value": "補正値",
+        "Id": "ID",
+        "Name Station": "ステーション名"
+    },
+    "Hardware": {
+        "App": {
+            "Title": "MODBUS ハードウェア デバッガ プロ",
+            "RefreshPorts": "ポート更新",
+            "SaveConfig": "設定保存"
+        },
+        "SerialSettings": {
+            "Header": "シリアルポート設定",
+            "Port": "ポート:",
+            "Baud": "ボーレート:",
+            "Parity": "パリティ:",
+            "SlaveId": "スレーブ ID:",
+            "Timeout": "タイムアウト (ms):",
+            "OpenPort": "ポートを開く",
+            "ClosePort": "ポートを閉じる",
+            "StatusDisconnected": "状態: 未接続",
+            "StatusConnected": "状態: 接続中"
+        },
+        "ModbusFunctions": {
+            "ReadCoils": "01H / 02H - コイル・入力読み取り",
+            "ReadRegisters": "03H / 04H - レジスタ読み取り",
+            "SingleWrite": "05H / 06H - シングル書き込み",
+            "MultiWrite": "10H - 複数レジスタ書き込み",
+            "StartAddress": "開始アドレス",
+            "Quantity": "数量",
+            "Address": "アドレス",
+            "ValueHex": "値 (Hex)",
+            "DataHex": "データ (Hex, 半角スペース区切り):",
+            "BtnRead": "読み取り",
+            "BtnWrite": "書き込み"
+        },
+        "Terminal": {
+            "ArbitraryCommand": "任意コマンド (手動 Hex)",
+            "AutoCrc": "自動 CRC",
+            "SendCommand": "コマンド送信",
+            "TxBuffer": "TX - 送信バッファ",
+            "RxBuffer": "RX - 受信バッファ",
+            "Clear": "クリア"
+        }
+    }
+}

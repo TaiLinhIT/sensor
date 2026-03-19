@@ -1,13 +1,19 @@
 {
     "Menu": {
-        "Menu": "ម៉ឺនុយ",
-        "System of parameters": "ប៉ារ៉ាម៉ែត្រប្រព័ន្ធ",
-        "Sensor type setting": "ការកំណត់ប្រភេទឧបករណ៍ចាប់សញ្ញា",
-        "Type command setting": "ការកំណត់ប្រភេទពាក្យបញ្ជា",
-        "Device setting": "ការកំណត់ឧបករណ៍",
-        "Data compensation": "ការប៉ះប៉ូវទិន្នន័យ",
-        "Hardware setting": "ការកំណត់ផ្នែករឹង",
-        "Reset password": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ"
+        "Dashboard": "ផ្ទាំងគ្រប់គ្រង",
+        "Tool": "ឧបករណ៍",
+        "Setting": {
+            "Title": "ការកំណត់",
+            "SystemParameters": "ប្រព័ន្ធប៉ារ៉ាម៉ែត្រ",
+            "SensorType": "ការកំណត់ប្រភេទសេនស័រ",
+            "TypeCommand": "ការកំណត់ប្រភេទពាក្យបញ្ជា",
+            "Device": "ការកំណត់ឧបករណ៍",
+            "ActiveSetting": "ការកំណត់សកម្មភាព",
+            "DataCompensation": "ការទូទាត់ទិន្នន័យ",
+            "Hardware": "ការកំណត់ផ្នែករឹង",
+            "ResetPassword": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ"
+        },
+        "Help": "ជំនួយ"
     },
     "Common": {
         "System": "ប្រព័ន្ធ",
@@ -37,12 +43,20 @@
         "Save": "រក្សាទុក",
         "Database name": "ឈ្មោះមូលដ្ឋានទិន្នន័យ"
     },
+    "Sensor view": {
+        "Id": "លេខសម្គាល់",
+        "Name": "ឈ្មោះ",
+        "Add a new sensor type": "បន្ថែមប្រភេទសេនស័រថ្មី",
+        "Edit sensor type": "កែសម្រួលប្រភេទសេនស័រ",
+        "Delete sensor type": "លុបប្រភេទសេនស័រ"
+    },
     "Command view": {
+        "Id": "ID",
         "Code type": "ប្រភេទកូដ",
-        "Slave ID": "Slave ID",
-        "Function code": "លេខកូដមុខងារ",
-        "CRC Check": "ការត្រួតពិនិត្យ CRC",
-        "Name": "ឈ្មោះ"
+        "Name": "ឈ្មោះ",
+        "Add a new command": "បន្ថែមពាក្យបញ្ជាថ្មី",
+        "Edit command": "កែសម្រួលពាក្យបញ្ជា",
+        "Delete command": "លុបពាក្យបញ្ជា"
     },
     "Setting view": {
         "Device": {
@@ -50,6 +64,8 @@
             "List device": "បញ្ជីឧបករណ៍",
             "Device id": "លេខសម្គាល់ឧបករណ៍",
             "Name device": "ឈ្មោះឧបករណ៍",
+            "Active": "ដំណើរការ",
+            "Sensor type": "ប្រភេទសេនស័រ",
             "Name code type": "ឈ្មោះប្រភេទកូដ",
             "Name type": "ឈ្មោះប្រភេទ",
             "Address device": "អាសយដ្ឋានឧបករណ៍",
@@ -63,19 +79,69 @@
             "CodeId": "លេខសម្គាល់កូដ",
             "DevId": "លេខសម្គាល់ឧបករណ៍",
             "Code": "កូដ",
-            "Active": "សកម្ម",
-            "InActive": "អសកម្ម",
+            "Active": "ដំណើរការ",
+            "InActive": "មិនដំណើរការ",
             "CodeType": "លេខសម្គាល់ប្រភេទកូដ",
             "Name": "ឈ្មោះ",
+            "Device Name": "ឈ្មោះឧបករណ៍",
+            "Name type": "ឈ្មោះប្រភេទ",
+            "Name Sensor type": "ឈ្មោះប្រភេទសេនស័រ",
             "Factor": "មេគុណ",
             "TypeId": "លេខសម្គាល់ប្រភេទ",
             "High": "ខ្ពស់",
             "Low": "ទាប",
             "IfShow": "ប្រសិនបើបង្ហាញ",
             "IfCal": "ប្រសិនបើគណនា",
-            "Add a new controlcode": "បន្ថែមលេខកូដបញ្ជាថ្មី",
-            "Edit controlcode": "កែសម្រួលលេខកូដបញ្ជា",
-            "Delete controlcode": "លុបលេខកូដបញ្ជា"
+            "Add a new controlcode": "បន្ថែមការគ្រប់គ្រងថ្មី",
+            "Edit controlcode": "កែសម្រួលកូដបញ្ជា",
+            "Delete controlcode": "លុបកូដបញ្ជា"
+        }
+    },
+    "Data compensation": {
+        "Slave Id": "លេខសម្គាល់ Slave",
+        "Address": "អាសយដ្ឋាន",
+        "Compensation value": "តម្លៃទូទាត់",
+        "Id": "លេខសម្គាល់",
+        "Name Station": "ឈ្មោះស្ថានីយ"
+    },
+    "Hardware": {
+        "App": {
+            "Title": "កម្មវិធីត្រួតពិនិត្យផ្នែករឹង MODBUS PRO",
+            "RefreshPorts": "ធ្វើឱ្យស្រស់រន្ធដោត (Ports)",
+            "SaveConfig": "រក្សាទុកការកំណត់"
+        },
+        "SerialSettings": {
+            "Header": "ការកំណត់ Serial Port",
+            "Port": "រន្ធដោត (Port):",
+            "Baud": "ល្បឿន (Baud):",
+            "Parity": "ភាពស្មើគ្នា (Parity):",
+            "SlaveId": "លេខសម្គាល់ Slave ID:",
+            "Timeout": "ពេលវេលារង់ចាំ (ms):",
+            "OpenPort": "បើករន្ធដោត",
+            "ClosePort": "បិទរន្ធដោត",
+            "StatusDisconnected": "ស្ថានភាព: មិនទាន់ភ្ជាប់",
+            "StatusConnected": "ស្ថានភាព: បានភ្ជាប់"
+        },
+        "ModbusFunctions": {
+            "ReadCoils": "01H / 02H - អាន Coils & Inputs",
+            "ReadRegisters": "03H / 04H - អាន Registers",
+            "SingleWrite": "05H / 06H - សរសេរទោល",
+            "MultiWrite": "10H - សរសេរ Registers ច្រើន",
+            "StartAddress": "អាសយដ្ឋានចាប់ផ្តើម",
+            "Quantity": "ចំនួន",
+            "Address": "អាសយដ្ឋាន",
+            "ValueHex": "តម្លៃ (Hex)",
+            "DataHex": "ទិន្នន័យ (Hex, បំបែកដោយចន្លោះ):",
+            "BtnRead": "អាន",
+            "BtnWrite": "សរសេរ"
+        },
+        "Terminal": {
+            "ArbitraryCommand": "បញ្ជាដោយដៃ (Manual Hex)",
+            "AutoCrc": "ស្វ័យប្រវត្តិ CRC",
+            "SendCommand": "បញ្ជូនបញ្ជា",
+            "TxBuffer": "TX - បញ្ជូនទិន្នន័យ",
+            "RxBuffer": "RX - ទទួលទិន្នន័យ",
+            "Clear": "សម្អាត"
         }
     },
     "Messages": {

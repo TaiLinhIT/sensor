@@ -1,0 +1,68 @@
+07:47:29 - [Service] Starting communication thread...
+07:47:33 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:33 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:33 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:33 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:33 - [Init] Warning: No control codes found from service.
+07:47:33 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:33 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:33 - Port COM4 open failed: Could not find file 'COM4'.
+07:47:37 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:37 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:37 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:37 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:37 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:37 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:39 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:39 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:41 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:41 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:41 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:42 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:42 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:42 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:42 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:43 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:43 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:46 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:46 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:46 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:46 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:47:47 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+07:47:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+07:48:51 - [Service] Starting communication thread...
+07:48:53 - Port COM4 open failed: Could not find file 'COM4'.
+10:21:37 - [Service] Starting communication thread...
+10:21:40 - Port COM4 open failed: Could not find file 'COM4'.
+10:39:23 - [Service] Starting communication thread...
+10:39:27 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:39:27 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:39:27 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:39:27 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:39:27 - [Init] Warning: No control codes found from service.
+10:39:27 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:27 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:39:27 - Port COM4 open failed: Could not find file 'COM4'.
+10:39:31 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:31 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:39:31 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:31 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+10:39:31 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:7777)
+10:39:31 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+13:14:06 - [Service] Starting communication thread...
+13:14:08 - Port COM4 open failed: Could not find file 'COM4'.
+13:23:39 - [Service] Starting communication thread...
+13:23:42 - Port COM4 open failed: Could not find file 'COM4'.
+13:24:14 - [Service] Starting communication thread...
+13:24:16 - Port COM4 open failed: Could not find file 'COM4'.
+13:27:45 - [Service] Starting communication thread...
+13:27:47 - Port COM4 open failed: Could not find file 'COM4'.
