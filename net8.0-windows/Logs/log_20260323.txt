@@ -1,2 +1,33 @@
 13:05:04 - [Service] Starting communication thread...
 13:05:07 - Port COM4 open failed: Could not find file 'COM4'.
+15:13:43 - [Service] Starting communication thread...
+15:13:47 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:47 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:47 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:47 - ❌ [HTTP Failed] Endpoint: api/Controlcode/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:47 - [Init] Warning: No control codes found from service.
+15:13:47 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:47 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:47 - Port COM6 open failed: Could not find file 'COM6'.
+15:13:51 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:51 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:51 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:51 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:56 - ❌ [HTTP Failed] Endpoint: api/SensorType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:56 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:13:56 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:13:56 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:14:00 - ❌ [HTTP Failed] Endpoint: api/ActiveType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:14:00 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:14:00 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:14:00 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:14:04 - ❌ [HTTP Failed] Endpoint: api/Device/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:14:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:14:04 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:14:04 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
+15:14:08 - ❌ [HTTP Failed] Endpoint: api/CodeType/. Lỗi: No connection could be made because the target machine actively refused it. (localhost:88)
+15:14:08 -    → Chi tiết: Loại: SocketException, Message: No connection could be made because the target machine actively refused it.
