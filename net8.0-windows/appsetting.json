@@ -1,12 +1,9 @@
 {
     "AppSettings": {
-        //"ApiBaseUrl": "http://localhost/webapi/",
-        "ApiBaseUrl": "https://localhost:7777/",
-        // "ApiBaseUrl": "http://localhost:88/",// api xưởng 2
-        "Port": "COM4", //temperature
-        //"Port": "COM3",//electronic
-        "Baudrate": 9600, //temperature
-        "TimeSendRequest": 500
-        //"Baudrate": 1200//electronic
+        //"ApiBaseUrl": "https://localhost:7777/",
+        "ApiBaseUrl": "http://localhost:88/", // api xưởng 2
+        "Port": "COM6",
+        "Baudrate": 9600,
+        "TimeSendRequest": 100
     }
 }
