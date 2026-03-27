@@ -2654,3 +2654,433 @@
 10:53:24 - [DISABLE] Slave 4 lỗi quá 3 lần
 10:53:24 - [DISABLE] Slave 4 lỗi quá 3 lần
 10:53:24 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:13:43 - [Service] Starting communication thread...
+11:13:45 - Port COM6 open failed: Could not find file 'COM6'.
+11:13:45 - [SCHEDULE] Slave 6 START
+11:13:45 - [SCHEDULE] Slave 1 START
+11:13:45 - [SCHEDULE] Slave 2 START
+11:13:45 - [SCHEDULE] Slave 5 START
+11:13:45 - [SCHEDULE] Slave 3 START
+11:13:45 - [SCHEDULE] Slave 4 START
+11:13:45 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:13:45 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:13:46 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:13:46 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:13:46 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:13:46 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:13:46 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:13:46 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:13:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:13:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:13:48 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:45 - [SCHEDULE] Slave 5 START
+11:14:45 - [SCHEDULE] Slave 4 START
+11:14:45 - [SCHEDULE] Slave 2 START
+11:14:45 - [SCHEDULE] Slave 3 START
+11:14:45 - [SCHEDULE] Slave 6 START
+11:14:45 - [SCHEDULE] Slave 1 START
+11:14:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:14:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:14:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:15:45 - [SCHEDULE] Slave 4 START
+11:15:45 - [SCHEDULE] Slave 5 START
+11:15:45 - [SCHEDULE] Slave 6 START
+11:15:45 - [SCHEDULE] Slave 2 START
+11:15:45 - [SCHEDULE] Slave 3 START
+11:15:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:15:45 - [SCHEDULE] Slave 1 START
+11:15:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:15:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:15:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:15:46 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:15:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:16:45 - [SCHEDULE] Slave 4 START
+11:16:45 - [SCHEDULE] Slave 5 START
+11:16:45 - [SCHEDULE] Slave 6 START
+11:16:45 - [SCHEDULE] Slave 2 START
+11:16:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:16:45 - [SCHEDULE] Slave 1 START
+11:16:45 - [SCHEDULE] Slave 3 START
+11:16:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:16:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:16:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:16:46 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:16:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:16:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:45 - [SCHEDULE] Slave 4 START
+11:17:45 - [SCHEDULE] Slave 5 START
+11:17:45 - [SCHEDULE] Slave 2 START
+11:17:45 - [SCHEDULE] Slave 6 START
+11:17:45 - [SCHEDULE] Slave 1 START
+11:17:45 - [SCHEDULE] Slave 3 START
+11:17:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:17:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:17:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:17:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:17:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:17:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:17:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:45 - [SCHEDULE] Slave 4 START
+11:18:45 - [SCHEDULE] Slave 5 START
+11:18:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:18:45 - [SCHEDULE] Slave 2 START
+11:18:45 - [SCHEDULE] Slave 6 START
+11:18:45 - [SCHEDULE] Slave 1 START
+11:18:45 - [SCHEDULE] Slave 3 START
+11:18:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:18:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:18:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:18:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:18:47 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:18:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:45 - [SCHEDULE] Slave 5 START
+11:19:45 - [SCHEDULE] Slave 4 START
+11:19:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:45 - [SCHEDULE] Slave 2 START
+11:19:45 - [SCHEDULE] Slave 6 START
+11:19:45 - [SCHEDULE] Slave 3 START
+11:19:45 - [SCHEDULE] Slave 1 START
+11:19:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:19:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:19:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:20:45 - [SCHEDULE] Slave 5 START
+11:20:45 - [SCHEDULE] Slave 4 START
+11:20:45 - [SCHEDULE] Slave 2 START
+11:20:45 - [SCHEDULE] Slave 6 START
+11:20:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:45 - [SCHEDULE] Slave 3 START
+11:20:45 - [SCHEDULE] Slave 1 START
+11:20:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:20:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:20:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:21:45 - [SCHEDULE] Slave 5 START
+11:21:45 - [SCHEDULE] Slave 4 START
+11:21:45 - [SCHEDULE] Slave 2 START
+11:21:45 - [SCHEDULE] Slave 6 START
+11:21:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:45 - [SCHEDULE] Slave 3 START
+11:21:45 - [SCHEDULE] Slave 1 START
+11:21:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:45 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:21:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:21:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:22:45 - [SCHEDULE] Slave 4 START
+11:22:45 - [SCHEDULE] Slave 5 START
+11:22:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:22:45 - [SCHEDULE] Slave 2 START
+11:22:45 - [SCHEDULE] Slave 6 START
+11:22:45 - [SCHEDULE] Slave 3 START
+11:22:45 - [SCHEDULE] Slave 1 START
+11:22:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:22:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:22:45 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 4 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 5 lỗi quá 3 lần
+11:22:46 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 2 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 6 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:47 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 3 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+11:22:48 - [DISABLE] Slave 1 lỗi quá 3 lần
