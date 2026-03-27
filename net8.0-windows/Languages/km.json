@@ -145,17 +145,53 @@
         }
     },
     "Messages": {
+        "Title": {
+            "Notification": "ការជូនដំណឹង",
+            "Error": "កំហុស",
+            "Warning": "ការព្រមាន"
+        },
         "Success": {
-            "Edit": "កែសម្រួលដោយជោគជ័យ!",
-            "Delete": "លុបដោយជោគជ័យ!",
-            "Add": "បន្ថែមដោយជោគជ័យ!"
+            "Edit": "កែសម្រួលបានជោគជ័យ!",
+            "Delete": "លុបបានជោគជ័យ!",
+            "Add": "បន្ថែមបានជោគជ័យ!"
         },
         "Errors": {
-            "LoadDevices": "កំហុសក្នុងការផ្ទុកបញ្ជីឧបករណ៍",
+            "Controlcode": {
+                "AddControlCode": "កំហុសក្នុងការបន្ថែមលេខកូដបញ្ជា",
+                "ControlCodeExists": "លេខកូដបញ្ជាមានរួចហើយ!",
+                "CodeRequired": "លេខកូដបញ្ជាត្រូវតែបំពេញ!",
+                "DeviceNameRequired": "ឈ្មោះឧបករណ៍ត្រូវតែបំពេញ!",
+                "CodeTypeRequired": "ប្រភេទលេខកូដបញ្ជាត្រូវតែបំពេញ!",
+                "ActiveRequired": "ស្ថានភាពសកម្មត្រូវតែបំពេញ!",
+                "NameControlcodeRequired": "ឈ្មោះលេខកូដបញ្ជាត្រូវតែបំពេញ!",
+                "SensorTypeRequired": "ប្រភេទសិនស័រត្រូវតែបំពេញ!",
+                "HighLowInvalid": "តម្លៃខ្ពស់/ទាប មិនត្រឹមត្រូវ!",
+                "ControlCodeNotFound": "រកមិនឃើញលេខកូដបញ្ជា!",
+                "CodeLengthInvalid": "ប្រវែងលេខកូដបញ្ជាមិនត្រឹមត្រូវ!"
+            },
+            "SensorType": {
+                "ERR_SENSORTYPE_NOT_FOUND": "មិនមានប្រភេទសិនស័រនេះទេ!",
+                "ERR_SENSORTYPE_EXISTS": "ប្រភេទសិនស័រមានរួចហើយ!"
+            },
+            "CodeType": {
+                "ERR_CODETYPE_NOT_FOUND": "មិនមានប្រភេទកូដនេះទេ!",
+                "ERR_CODETYPE_EXISTS": "ប្រភេទកូដមានរួចហើយ!"
+            },
+            "LoadDevices": "កំហុសក្នុងការទាញយកបញ្ជីឧបករណ៍",
             "AddDevice": "កំហុសក្នុងការបន្ថែមឧបករណ៍",
-            "AddControlCode": "កំហុសក្នុងការបន្ថែមលេខកូដបញ្ជា",
             "DeviceExists": "ឧបករណ៍មានរួចហើយ!",
-            "ControlCodeExists": "លេខកូដបញ្ជាមានរួចហើយ!"
+            "NoDeviceSelected": "មិនមានឧបករណ៍ត្រូវបានជ្រើសរើស!",
+            "Exception": "មានកំហុសកើតឡើង: {0}",
+            "DeviceNameRequired": "ឈ្មោះឧបករណ៍ត្រូវតែបំពេញ!",
+            "DeviceNameInvalid": "ឈ្មោះឧបករណ៍មិនត្រឹមត្រូវ!",
+            "ErrDeviceNotFound": "រកមិនឃើញឧបករណ៍!",
+            "ErrUpdateDevice": "កំហុសក្នុងការធ្វើបច្ចុប្បន្នភាពឧបករណ៍!"
+        },
+        "Warning": {
+            "NameRequired": "ឈ្មោះត្រូវតែបំពេញ!",
+            "CodeRequired": "លេខកូដត្រូវតែបំពេញ!",
+            "InvalidTypeId": "លេខសម្គាល់ប្រភេទមិនត្រឹមត្រូវ!",
+            "CommandTypeRequired": "ប្រភេទលេខកូដបញ្ជាត្រូវតែបំពេញ!"
         }
     }
 }

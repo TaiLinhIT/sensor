@@ -144,5 +144,55 @@
             "RxBuffer": "RX - 수신 버퍼",
             "Clear": "지우기"
         }
+    },
+    "Messages": {
+        "Title": {
+            "Notification": "알림",
+            "Error": "오류",
+            "Warning": "경고"
+        },
+        "Success": {
+            "Edit": "수정 성공!",
+            "Delete": "삭제 성공!",
+            "Add": "추가 성공!"
+        },
+        "Errors": {
+            "Controlcode": {
+                "AddControlCode": "제어 코드 추가 오류",
+                "ControlCodeExists": "이미 존재하는 제어 코드입니다!",
+                "CodeRequired": "제어 코드는 필수입니다!",
+                "DeviceNameRequired": "장치 이름은 필수입니다!",
+                "CodeTypeRequired": "제어 코드 유형은 필수입니다!",
+                "ActiveRequired": "활성 상태는 필수입니다!",
+                "NameControlcodeRequired": "제어 코드 이름은 필수입니다!",
+                "SensorTypeRequired": "센서 유형은 필수입니다!",
+                "HighLowInvalid": "상한/하한 값이 유효하지 않습니다!",
+                "ControlCodeNotFound": "제어 코드를 찾을 수 없습니다!",
+                "CodeLengthInvalid": "제어 코드 길이가 유효하지 않습니다!"
+            },
+            "SensorType": {
+                "ERR_SENSORTYPE_NOT_FOUND": "센서 유형이 존재하지 않습니다!",
+                "ERR_SENSORTYPE_EXISTS": "이미 존재하는 센서 유형입니다!"
+            },
+            "CodeType": {
+                "ERR_CODETYPE_NOT_FOUND": "코드 유형이 존재하지 않습니다!",
+                "ERR_CODETYPE_EXISTS": "이미 존재하는 코드 유형입니다!"
+            },
+            "LoadDevices": "장치 목록 로드 오류",
+            "AddDevice": "장치 추가 오류",
+            "DeviceExists": "장치가 이미 존재합니다!",
+            "NoDeviceSelected": "선택된 장치가 없습니다!",
+            "Exception": "오류가 발생했습니다: {0}",
+            "DeviceNameRequired": "장치 이름은 필수입니다!",
+            "DeviceNameInvalid": "장치 이름이 유효하지 않습니다!",
+            "ErrDeviceNotFound": "장치를 찾을 수 없습니다!",
+            "ErrUpdateDevice": "장치 업데이트 오류!"
+        },
+        "Warning": {
+            "NameRequired": "이름은 필수입니다!",
+            "CodeRequired": "코드는 필수입니다!",
+            "InvalidTypeId": "유효하지 않은 유형 ID입니다!",
+            "CommandTypeRequired": "제어 코드 유형은 필수입니다!"
+        }
     }
 }

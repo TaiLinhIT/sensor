@@ -145,18 +145,58 @@
         }
     },
     "Messages": {
+        "Title": {
+            "Notification": "Thông báo",
+            "Error": "Lỗi",
+            "Warning": "Cảnh báo"
+        },
         "Success": {
             "Edit": "Chỉnh sửa thành công!",
             "Delete": "Xóa thành công!",
             "Add": "Thêm thành công!"
         },
         "Errors": {
+            "Controlcode": {
+                "AddControlCode": "Lỗi khi thêm mã điều khiển",
+                "ControlCodeExists": "Mã điều khiển đã tồn tại!",
+                "CodeRequired": "Mã điều khiển là bắt buộc!",
+                "DeviceNameRequired": "Tên thiết bị là bắt buộc!",
+                "CodeTypeRequired": "Loại mã điều khiển là bắt buộc!",
+                "ActiveRequired": "Trạng thái hoạt động là bắt buộc!",
+                "NameControlcodeRequired": "Tên mã điều khiển là bắt buộc!",
+                "SensorTypeRequired": "Loại cảm biến là bắt buộc!",
+                "HighLowInvalid": "Giá trị cao/thấp không hợp lệ!",
+                "ControlCodeNotFound": "Mã điều khiển không tồn tại!",
+                "CodeLengthInvalid": "Độ dài mã điều khiển không hợp lệ!"
+            },
+            "SensorType": {
+                "ERR_SENSORTYPE_NOT_FOUND": "Loại cảm biến không tồn tại!",
+                "ERR_SENSORTYPE_EXISTS": "Loại cảm biến đã tồn tại!"
+
+            },
+            "CodeType": {
+                "ERR_CODETYPE_NOT_FOUND": "Loại mã không tồn tại!",
+                "ERR_CODETYPE_EXISTS": "Loại mã đã tồn tại!"
+            },
             "LoadDevices": "Lỗi khi tải danh sách thiết bị",
             "AddDevice": "Lỗi khi thêm thiết bị",
-            "AddControlCode": "Lỗi khi thêm mã điều khiển",
             "DeviceExists": "Thiết bị đã tồn tại!",
-            "ControlCodeExists": "Mã điều khiển đã tồn tại!"
+            "NoDeviceSelected": "Không có thiết bị nào được chọn!",
+            "Exception": "Đã xảy ra lỗi: {0}",
+            "DeviceNameRequired": "Tên thiết bị là bắt buộc!",
+            "DeviceNameInvalid": "Tên thiết bị không hợp lệ!",
+            "ErrDeviceNotFound": "Thiết bị không tồn tại!",
+            "ErrUpdateDevice": "Lỗi khi cập nhật thiết bị!"
+
+        },
+        "Warning": {
+            "NameRequired": "Tên là bắt buộc!",
+            "CodeRequired": "Mã là bắt buộc!",
+            "InvalidTypeId": "Mã định danh loại không hợp lệ!",
+            "CommandTypeRequired": "Loại mã điều khiển là bắt buộc!"
+
         }
     }
+    
 
 }

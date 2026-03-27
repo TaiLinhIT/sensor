@@ -145,17 +145,53 @@
         }
     },
     "Messages": {
+        "Title": {
+            "Notification": "通知",
+            "Error": "错误",
+            "Warning": "警告"
+        },
         "Success": {
             "Edit": "编辑成功！",
             "Delete": "删除成功！",
             "Add": "添加成功！"
         },
         "Errors": {
-            "LoadDevices": "加载设备列表失败",
-            "AddDevice": "添加设备失败",
-            "AddControlCode": "添加控制码失败",
+            "Controlcode": {
+                "AddControlCode": "添加控制码时出错",
+                "ControlCodeExists": "控制码已存在！",
+                "CodeRequired": "控制码为必填项！",
+                "DeviceNameRequired": "设备名称为必填项！",
+                "CodeTypeRequired": "控制码类型为必填项！",
+                "ActiveRequired": "激活状态为必填项！",
+                "NameControlcodeRequired": "控制码名称为必填项！",
+                "SensorTypeRequired": "传感器类型为必填项！",
+                "HighLowInvalid": "高/低值无效！",
+                "ControlCodeNotFound": "未找到控制码！",
+                "CodeLengthInvalid": "控制码长度无效！"
+            },
+            "SensorType": {
+                "ERR_SENSORTYPE_NOT_FOUND": "传感器类型不存在！",
+                "ERR_SENSORTYPE_EXISTS": "传感器类型已存在！"
+            },
+            "CodeType": {
+                "ERR_CODETYPE_NOT_FOUND": "代码类型不存在！",
+                "ERR_CODETYPE_EXISTS": "代码类型已存在！"
+            },
+            "LoadDevices": "加载设备列表出错",
+            "AddDevice": "添加设备时出错",
             "DeviceExists": "设备已存在！",
-            "ControlCodeExists": "控制码已存在！"
+            "NoDeviceSelected": "未选择任何设备！",
+            "Exception": "发生错误：{0}",
+            "DeviceNameRequired": "设备名称为必填项！",
+            "DeviceNameInvalid": "设备名称无效！",
+            "ErrDeviceNotFound": "设备不存在！",
+            "ErrUpdateDevice": "更新设备时出错！"
+        },
+        "Warning": {
+            "NameRequired": "名称为必填项！",
+            "CodeRequired": "代码为必填项！",
+            "InvalidTypeId": "类型标识符无效！",
+            "CommandTypeRequired": "控制代码类型为必填项！"
         }
     }
 }

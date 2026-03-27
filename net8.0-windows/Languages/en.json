@@ -143,19 +143,56 @@
             "RxBuffer": "RX - RECEIVE BUFFER",
             "Clear": "Clear"
         }
-    },  
+    },
     "Messages": {
-        "Success": {
-            "Edit": "Edited successfully!",
-            "Delete": "Deleted successfully!",
-            "Add": "Added successfully!"
-        },
-        "Errors": {
-            "LoadDevices": "Error loading device list",
-            "AddDevice": "Error adding device",
-            "AddControlCode": "Error adding control code",
-            "DeviceExists": "Device already exists!",
-            "ControlCodeExists": "Control code already exists!"
+            "Title": {
+                "Notification": "Notification",
+                "Error": "Error",
+                "Warning": "Warning"
+            },
+            "Success": {
+                "Edit": "Edited successfully!",
+                "Delete": "Deleted successfully!",
+                "Add": "Added successfully!"
+            },
+            "Errors": {
+                "Controlcode": {
+                    "AddControlCode": "Error adding control code",
+                    "ControlCodeExists": "Control code already exists!",
+                    "CodeRequired": "Control code is required!",
+                    "DeviceNameRequired": "Device name is required!",
+                    "CodeTypeRequired": "Control code type is required!",
+                    "ActiveRequired": "Active status is required!",
+                    "NameControlcodeRequired": "Control code name is required!",
+                    "SensorTypeRequired": "Sensor type is required!",
+                    "HighLowInvalid": "High/Low values are invalid!",
+                    "ControlCodeNotFound": "Control code not found!",
+                    "CodeLengthInvalid": "Control code length is invalid!"
+                },
+                "SensorType": {
+                    "ERR_SENSORTYPE_NOT_FOUND": "Sensor type not found!",
+                    "ERR_SENSORTYPE_EXISTS": "Sensor type already exists!"
+                },
+                "CodeType": {
+                    "ERR_CODETYPE_NOT_FOUND": "Code type not found!",
+                    "ERR_CODETYPE_EXISTS": "Code type already exists!"
+                },
+                "LoadDevices": "Error loading device list",
+                "AddDevice": "Error adding device",
+                "DeviceExists": "Device already exists!",
+                "NoDeviceSelected": "No device selected!",
+                "Exception": "An error occurred: {0}",
+                "DeviceNameRequired": "Device name is required!",
+                "DeviceNameInvalid": "Device name is invalid!",
+                "ErrDeviceNotFound": "Device not found!",
+                "ErrUpdateDevice": "Error updating device!"
+            },
+            "Warning": {
+                "NameRequired": "Name is required!",
+                "CodeRequired": "Code is required!",
+                "InvalidTypeId": "Invalid type ID!",
+                "CommandTypeRequired": "Control code type is required!"
+            }
         }
-    }
+    
 }

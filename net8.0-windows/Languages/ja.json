@@ -143,5 +143,55 @@
             "RxBuffer": "RX - 受信バッファ",
             "Clear": "クリア"
         }
+    },
+    "Messages": {
+        "Title": {
+            "Notification": "通知",
+            "Error": "エラー",
+            "Warning": "警告"
+        },
+        "Success": {
+            "Edit": "編集に成功しました！",
+            "Delete": "削除に成功しました！",
+            "Add": "追加に成功しました！"
+        },
+        "Errors": {
+            "Controlcode": {
+                "AddControlCode": "制御コードの追加エラー",
+                "ControlCodeExists": "制御コードは既に存在します！",
+                "CodeRequired": "制御コードは必須です！",
+                "DeviceNameRequired": "デバイス名は必須です！",
+                "CodeTypeRequired": "制御コードタイプは必須です！",
+                "ActiveRequired": "ステータスは必須です！",
+                "NameControlcodeRequired": "制御コード名は必須です！",
+                "SensorTypeRequired": "センサータイプは必須です！",
+                "HighLowInvalid": "高/低値が無効です！",
+                "ControlCodeNotFound": "制御コードが見つかりません！",
+                "CodeLengthInvalid": "制御コードの長さが無効です！"
+            },
+            "SensorType": {
+                "ERR_SENSORTYPE_NOT_FOUND": "センサータイプが存在しません！",
+                "ERR_SENSORTYPE_EXISTS": "センサータイプは既に存在します！"
+            },
+            "CodeType": {
+                "ERR_CODETYPE_NOT_FOUND": "コードタイプが存在しません！",
+                "ERR_CODETYPE_EXISTS": "コードタイプは既に存在します！"
+            },
+            "LoadDevices": "デバイスリストの読み込みエラー",
+            "AddDevice": "デバイス追加エラー",
+            "DeviceExists": "デバイスは既に存在します！",
+            "NoDeviceSelected": "デバイスが選択されていません！",
+            "Exception": "エラーが発生しました: {0}",
+            "DeviceNameRequired": "デバイス名は必須です！",
+            "DeviceNameInvalid": "デバイス名が無効です！",
+            "ErrDeviceNotFound": "デバイスが見つかりません！",
+            "ErrUpdateDevice": "デバイスの更新エラー！"
+        },
+        "Warning": {
+            "NameRequired": "名前は必須です！",
+            "CodeRequired": "コードは必須です！",
+            "InvalidTypeId": "タイプIDが無効です！",
+            "CommandTypeRequired": "制御コードタイプは必須です！"
+        }
     }
 }
