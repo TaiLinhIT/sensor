@@ -3084,3 +3084,43 @@
 11:22:48 - [DISABLE] Slave 1 lỗi quá 3 lần
 11:22:48 - [DISABLE] Slave 1 lỗi quá 3 lần
 11:22:48 - [DISABLE] Slave 1 lỗi quá 3 lần
+13:08:51 - [Service] Starting communication thread...
+15:18:55 - [Service] Starting communication thread...
+15:18:58 - Port COM6 open failed: Could not find file 'COM6'.
+15:18:58 - [SCHEDULE] Slave 2 START
+15:18:58 - [SCHEDULE] Slave 1 START
+15:18:58 - [SCHEDULE] Slave 6 START
+15:18:58 - [SCHEDULE] Slave 5 START
+15:18:58 - [SCHEDULE] Slave 3 START
+15:18:58 - [SCHEDULE] Slave 4 START
+15:18:58 - [DISABLE] Slave 2 lỗi quá 3 lần
+15:18:58 - [DISABLE] Slave 1 lỗi quá 3 lần
+15:18:58 - [DISABLE] Slave 1 lỗi quá 3 lần
+15:18:58 - [DISABLE] Slave 6 lỗi quá 3 lần
+15:18:58 - [DISABLE] Slave 6 lỗi quá 3 lần
+15:18:58 - [DISABLE] Slave 6 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 6 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 6 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 6 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 5 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 5 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 5 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 5 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 5 lỗi quá 3 lần
+15:18:59 - [DISABLE] Slave 5 lỗi quá 3 lần
+15:19:00 - [DISABLE] Slave 3 lỗi quá 3 lần
+15:19:00 - [DISABLE] Slave 3 lỗi quá 3 lần
+15:19:00 - [DISABLE] Slave 3 lỗi quá 3 lần
+15:19:00 - [DISABLE] Slave 3 lỗi quá 3 lần
+15:19:00 - [DISABLE] Slave 3 lỗi quá 3 lần
+15:19:00 - [DISABLE] Slave 3 lỗi quá 3 lần
+16:07:29 - [Service] Starting communication thread...
+16:07:31 - Port COM6 open failed: Could not find file 'COM6'.
+16:07:31 - [SCHEDULE] Slave 5 START
+16:07:31 - [SCHEDULE] Slave 1 START
+16:07:31 - [SCHEDULE] Slave 2 START
+16:07:31 - [SCHEDULE] Slave 6 START
+16:07:31 - [SCHEDULE] Slave 3 START
+16:07:31 - [SCHEDULE] Slave 4 START
+16:07:31 - [DISABLE] Slave 5 lỗi quá 3 lần
+16:07:31 - [DISABLE] Slave 5 lỗi quá 3 lần

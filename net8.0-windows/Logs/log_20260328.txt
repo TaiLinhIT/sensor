@@ -1,0 +1,26 @@
+08:04:01 - [Service] Starting communication thread...
+08:04:04 - Port COM6 open failed: Could not find file 'COM6'.
+08:04:04 - [SCHEDULE] Slave 2 START
+08:04:04 - [SCHEDULE] Slave 6 START
+08:04:04 - [SCHEDULE] Slave 1 START
+08:04:04 - [SCHEDULE] Slave 5 START
+08:04:04 - [SCHEDULE] Slave 3 START
+08:04:04 - [SCHEDULE] Slave 4 START
+08:04:04 - [DISABLE] Slave 2 lỗi quá 3 lần
+08:04:04 - [DISABLE] Slave 6 lỗi quá 3 lần
+08:04:04 - [DISABLE] Slave 6 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 6 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 6 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 6 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 6 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 1 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 1 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 5 lỗi quá 3 lần
+08:04:05 - [DISABLE] Slave 5 lỗi quá 3 lần
+08:04:06 - [DISABLE] Slave 5 lỗi quá 3 lần
+08:04:06 - [DISABLE] Slave 5 lỗi quá 3 lần
+08:04:06 - [DISABLE] Slave 5 lỗi quá 3 lần
+08:04:06 - [DISABLE] Slave 5 lỗi quá 3 lần
+08:04:06 - [DISABLE] Slave 3 lỗi quá 3 lần
+08:04:06 - [DISABLE] Slave 3 lỗi quá 3 lần
+08:04:06 - [DISABLE] Slave 3 lỗi quá 3 lần

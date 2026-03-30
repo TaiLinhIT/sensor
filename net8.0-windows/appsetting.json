@@ -1,8 +1,8 @@
 {
     "AppSettings": {
-        //"ApiBaseUrl": "https://localhost:7777/",
-        "ApiBaseUrl": "http://localhost:88/", // api xưởng 2
-        "Port": "COM7",
+        "ApiBaseUrl": "https://localhost:7777/",
+        //"ApiBaseUrl": "http://localhost:88/", // api xưởng 2
+        "Port": "COM6",
         "Baudrate": 9600,
         "TimeSendRequest": 100
     }
